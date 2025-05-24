@@ -1,119 +1,114 @@
 {
-  "personalDetails": {
+  "profile": {
+    "version": "v2.2.0",
+    "lastUpdated": "2025-5-24",
+    "status": "Active"
+  },
+  "identity": {
     "fullName": "Keith Keizzah",
     "preferredName": "Keith",
+    "birth": {
+      "date": "2004-09-30",
+      "age": 19
+    },
     "nationality": "Kenyan",
-    "dateOfBirth": "2004-09-30",
-    "age": 19,
     "location": {
-      "city": "Nairobi",
+      "city": "Migori",
       "country": "Kenya",
       "timezone": "EAT (UTC+3)"
     },
     "languages": ["English", "Swahili"]
   },
-  "professionalProfile": {
-    "title": "Full Stack Developer | Tech Entrepreneur",
-    "summary": "Passionate software developer with expertise in building scalable web applications and APIs. Focused on creating innovative solutions that address real-world challenges through technology.",
-    "keyAttributes": [
-      "Problem solver with strong analytical skills",
-      "Continuous learner staying updated with tech trends",
-      "Effective collaborator in team environments",
-      "Detail-oriented with clean code principles"
-    ],
-    "yearsOfExperience": 4
-  },
   "contact": {
-    "professionalEmail": "keith.keizzah@protonmail.com",
-    "businessEmail": "contact@keizzah.dev",
-    "telephone": "+254 7XX XXX XXX",
-    "alternativeContact": "+254 7XX XXX XXX",
-    "secureMessaging": "https://signal.me/keithkeizzah",
-    "emergencyContact": {
-      "name": "[Redacted]",
-      "relation": "[Redacted]",
-      "phone": "+254 XXX XXX XXX"
+    "primary": "+254748387615",
+    "email": "keith.keizzah@protonmail.com",
+    "direct": "https://keith-site.vercel.app/contact",
+    "emergency": "Available upon request"
+  },
+  "education": {
+    "formal": {
+      "institution": "Maasai Mara University",
+      "program": "Bachelor of Education Arts English/Literature",
+      "status": "In Progress",
+      "expectedCompletion": "2026"
+    },
+    "technical": {
+      "type": "Self-directed learning",
+      "focusAreas": ["Full Stack Development", "API Design", "Educational Technology"]
     }
   },
-  "technicalSkills": {
-    "programmingLanguages": ["JavaScript (ES6+)", "TypeScript", "Python", "Java"],
-    "frontend": ["React", "Vue", "HTML5/CSS3", "TailwindCSS", "Web Components"],
-    "backend": ["Node.js", "Express", "Django", "Flask", "GraphQL"],
-    "databases": ["PostgreSQL", "MongoDB", "Firebase", "Redis"],
-    "devOps": ["Docker", "AWS", "CI/CD Pipelines", "GitHub Actions"],
-    "other": ["RESTful API Design", "Microservices", "Web Security", "JWT/OAuth"]
-  },
-  "professionalNetworks": {
-    "github": {
-      "url": "https://github.com/keithkeizzah",
-      "username": "keithkeizzah",
-      "description": "Open-source contributions and personal projects"
+  "skills": {
+    "technical": {
+      "languages": ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+      "frontend": ["React", "Next.js", "TailwindCSS"],
+      "backend": ["Node.js", "Express", "Flask"],
+      "databases": ["MongoDB", "PostgreSQL", "Firebase"],
+      "devOps": ["Vercel", "Render", "GitHub Actions"]
     },
-    "linkedin": {
-      "url": "https://linkedin.com/in/keithkeizzah",
-      "username": "keithkeizzah",
-      "description": "Professional network and career history"
-    },
-    "stackOverflow": {
-      "url": "https://stackoverflow.com/users/keithkeizzah",
-      "username": "keithkeizzah",
-      "description": "Technical Q&A contributions"
-    },
-    "portfolio": "https://keizzah.dev"
-  },
-  "education": [
-    {
-      "institution": "University of Nairobi",
-      "degree": "BSc Computer Science",
-      "period": "2022-2026",
-      "status": "In Progress"
-    },
-    {
-      "institution": "FreeCodeCamp",
-      "certification": "Full Stack Development Certification",
-      "year": 2021
-    }
-  ],
-  "currentProjects": [
-    {
-      "name": "EcoFarm Kenya",
-      "role": "Lead Developer",
-      "description": "Agri-tech platform connecting small-scale farmers with markets",
-      "technologies": ["React", "Node.js", "PostgreSQL"],
-      "url": "https://ecofarm.ke"
-    },
-    {
-      "name": "DevHub KE",
-      "role": "Co-founder",
-      "description": "Kenyan developer community platform",
-      "technologies": ["Vue", "Firebase"],
-      "url": "https://devhub.ke"
-    }
-  ],
-  "availability": {
-    "status": "Available for freelance projects",
-    "commitment": "Part-time (20hrs/week)",
-    "noticePeriod": "2 weeks",
-    "remoteWork": true,
-    "relocation": false
-  },
-  "personalBrand": {
-    "tagline": "Building solutions that matter",
-    "values": [
-      "Integrity in code and conduct",
-      "User-centric development",
-      "Sustainable technology",
-      "Community empowerment"
-    ],
-    "speakingTopics": [
-      "Tech entrepreneurship in Africa",
-      "JavaScript best practices",
-      "Building developer communities"
+    "professional": [
+      "Technical Communication",
+      "Project Management",
+      "Educational Technology Integration"
     ]
   },
-  "security": {
-    "pgpKey": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xXXXXXXXX",
-    "disclosurePolicy": "https://keizzah.dev/security"
+  "projects": {
+    "highlighted": [
+      {
+        "name": "Verification Systems",
+        "description": "API-powered verification tools",
+        "stack": ["Node.js", "React", "MongoDB"],
+        "links": [
+          "https://alpha-verify.vercel.app",
+          "https://keith-verify.vercel.app"
+        ],
+        "status": "Active Development"
+      },
+      {
+        "name": "Session Management",
+        "description": "Real-time session handlers",
+        "stack": ["Node.js", "Express", "WebSockets"],
+        "links": [
+          "https://keithpair.onrender.com",
+          "https://alphapair.onrender.com"
+        ],
+        "status": "Maintenance"
+      }
+    ],
+    "repositories": {
+      "primary": "https://github.com/Keithkeizzah/KEITH-MD",
+      "secondary": "https://github.com/Keithkeizzah/ALPHA-MD",
+      "telegramBots": "https://github.com/Keithkeizzah/Telegram-Repositories"
+    }
   },
-  "lastUpdated": "2023-11-02"
+  "services": {
+    "offered": [
+      "Custom Web Development",
+      "API Design & Implementation",
+      "Educational Technology Solutions"
+    ],
+    "availability": "Part-time (20 hrs/week)",
+    "engagement": {
+      "freelance": true,
+      "contract": true,
+      "collaboration": true
+    }
+  },
+  "digitalFootprint": {
+    "portfolio": "https://keith-site.vercel.app/",
+    "apiPortal": "https://apis-keith.vercel.app/",
+    "social": {
+      "development": "https://github.com/Keithkeizzah",
+      "content": "https://youtube.com/@keithkeizzah",
+      "professional": "https://www.linkedin.com/in/keithkeizzah",
+      "telegram": {
+        "support": "https://t.me/keithmd",
+        "channel": "https://t.me/keithtechsupport"
+      }
+    }
+  },
+  "meta": {
+    "updateFrequency": "Quarterly",
+    "privacyNotice": "https://keith-site.vercel.app/privacy",
+    "dataPolicy": "Contact for usage guidelines"
+  }
 }
