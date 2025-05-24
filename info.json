@@ -1,0 +1,119 @@
+{
+  "personalDetails": {
+    "fullName": "Keith Keizzah",
+    "preferredName": "Keith",
+    "nationality": "Kenyan",
+    "dateOfBirth": "2004-09-30",
+    "age": 19,
+    "location": {
+      "city": "Nairobi",
+      "country": "Kenya",
+      "timezone": "EAT (UTC+3)"
+    },
+    "languages": ["English", "Swahili"]
+  },
+  "professionalProfile": {
+    "title": "Full Stack Developer | Tech Entrepreneur",
+    "summary": "Passionate software developer with expertise in building scalable web applications and APIs. Focused on creating innovative solutions that address real-world challenges through technology.",
+    "keyAttributes": [
+      "Problem solver with strong analytical skills",
+      "Continuous learner staying updated with tech trends",
+      "Effective collaborator in team environments",
+      "Detail-oriented with clean code principles"
+    ],
+    "yearsOfExperience": 4
+  },
+  "contact": {
+    "professionalEmail": "keith.keizzah@protonmail.com",
+    "businessEmail": "contact@keizzah.dev",
+    "telephone": "+254 7XX XXX XXX",
+    "alternativeContact": "+254 7XX XXX XXX",
+    "secureMessaging": "https://signal.me/keithkeizzah",
+    "emergencyContact": {
+      "name": "[Redacted]",
+      "relation": "[Redacted]",
+      "phone": "+254 XXX XXX XXX"
+    }
+  },
+  "technicalSkills": {
+    "programmingLanguages": ["JavaScript (ES6+)", "TypeScript", "Python", "Java"],
+    "frontend": ["React", "Vue", "HTML5/CSS3", "TailwindCSS", "Web Components"],
+    "backend": ["Node.js", "Express", "Django", "Flask", "GraphQL"],
+    "databases": ["PostgreSQL", "MongoDB", "Firebase", "Redis"],
+    "devOps": ["Docker", "AWS", "CI/CD Pipelines", "GitHub Actions"],
+    "other": ["RESTful API Design", "Microservices", "Web Security", "JWT/OAuth"]
+  },
+  "professionalNetworks": {
+    "github": {
+      "url": "https://github.com/keithkeizzah",
+      "username": "keithkeizzah",
+      "description": "Open-source contributions and personal projects"
+    },
+    "linkedin": {
+      "url": "https://linkedin.com/in/keithkeizzah",
+      "username": "keithkeizzah",
+      "description": "Professional network and career history"
+    },
+    "stackOverflow": {
+      "url": "https://stackoverflow.com/users/keithkeizzah",
+      "username": "keithkeizzah",
+      "description": "Technical Q&A contributions"
+    },
+    "portfolio": "https://keizzah.dev"
+  },
+  "education": [
+    {
+      "institution": "University of Nairobi",
+      "degree": "BSc Computer Science",
+      "period": "2022-2026",
+      "status": "In Progress"
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "certification": "Full Stack Development Certification",
+      "year": 2021
+    }
+  ],
+  "currentProjects": [
+    {
+      "name": "EcoFarm Kenya",
+      "role": "Lead Developer",
+      "description": "Agri-tech platform connecting small-scale farmers with markets",
+      "technologies": ["React", "Node.js", "PostgreSQL"],
+      "url": "https://ecofarm.ke"
+    },
+    {
+      "name": "DevHub KE",
+      "role": "Co-founder",
+      "description": "Kenyan developer community platform",
+      "technologies": ["Vue", "Firebase"],
+      "url": "https://devhub.ke"
+    }
+  ],
+  "availability": {
+    "status": "Available for freelance projects",
+    "commitment": "Part-time (20hrs/week)",
+    "noticePeriod": "2 weeks",
+    "remoteWork": true,
+    "relocation": false
+  },
+  "personalBrand": {
+    "tagline": "Building solutions that matter",
+    "values": [
+      "Integrity in code and conduct",
+      "User-centric development",
+      "Sustainable technology",
+      "Community empowerment"
+    ],
+    "speakingTopics": [
+      "Tech entrepreneurship in Africa",
+      "JavaScript best practices",
+      "Building developer communities"
+    ]
+  },
+  "security": {
+    "pgpKey": "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xXXXXXXXX",
+    "disclosurePolicy": "https://keizzah.dev/security"
+  },
+  "lastUpdated": "2023-11-02"
+}
