@@ -1,1 +1,95 @@
 
+{
+  "endpoints": [
+    {
+      "category": "downloaders",
+      "name": "YouTube MP3",
+      "url": "/download/dlmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "description": "Download YouTube videos as MP3 files."
+    },
+    {
+      "category": "downloaders",
+      "name": "YouTube MP4",
+      "url": "/download/dlmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "description": "Download YouTube videos as MP4 files."
+    },
+    {
+      "category": "downloaders",
+      "name": "Piniimg Download",
+      "url": "/download/piniimg?text=car",
+      "description": "Download images from Piniimg."
+    },
+    {
+      "category": "downloaders",
+      "name": "Twitter Download",
+      "url": "/download/twitter?url=https://twitter.com/futurism/status/882987478541533189",
+      "description": "Download videos from Twitter."
+    },
+    {
+      "category": "downloaders",
+      "name": "Spotify",
+      "url": "/download/spotify?q=spectre",
+      "description": "download spotify audio tracks."
+    },
+    {
+      "category": "downloaders",
+      "name": "TikTok Download",
+      "url": "/download/tiktokdl?url=https://vt.tiktok.com/ZSje1Vkup/",
+      "description": "Download videos from TikTok."
+    },
+    {
+      "category": "downloaders",
+      "name": "Instagram Download",
+      "url": "/download/instagramdl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
+      "description": "Download videos from Instagram."
+    },
+    {
+      "category": "downloaders",
+      "name": "MediaFire Download",
+      "url": "/download/mfire?url=https://www.mediafire.com/file/yce2h1da3kqzh27/WhatsApp+Installer.exe/file",
+      "description": "Download files from MediaFire."
+    },
+    {
+      "category": "downloaders",
+      "name": "APKFab Download",
+      "url": "/download/apkfab?url=https://apkfab.com/whatsapp-messenger/com.whatsapp",
+      "description": "Download APK files from APKFab."
+    },
+    {
+      "category": "downloaders",
+      "name": "Mod WhatsApp Download",
+      "url": "/download/modwhatsappdl?url=https://apkdon.net/fouad-whatsapp/",
+      "description": "Download modified WhatsApp APK."
+    },
+    {
+      "category": "downloaders",
+      "name": "Mod WA Download",
+      "url": "/download/modwadl?url=https://apkdon.net/fouad-whatsapp-download-latest-version/",
+      "description": "Download modified WhatsApp APK."
+    },
+    {
+      "category": "downloaders",
+      "name": "Facebook Download",
+      "url": "/download/fbdown?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
+      "description": "Download videos from Facebook."
+    },
+    {
+      "category": "downloaders",
+      "name": "SoundCloud Download",
+      "url": "/download/soundcloud?url=https://m.soundcloud.com/nilanhettiarachchi/lelena",
+      "description": "Download audio from SoundCloud."
+    },
+    {
+      "category": "downloaders",
+      "name": "Appletone Download",
+      "url": "/download/appletone?text=2024",
+      "description": "Download ringtones from Appletone."
+    },
+    {
+      "category": "downloaders",
+      "name": "Appletone DL",
+      "url": "/download/appletonedl?url=https://www.prokerala.com/downloads/ringtones/download.php?id=62159",
+      "description": "Download ringtones from Appletone."
+    }
+  ]
+}
