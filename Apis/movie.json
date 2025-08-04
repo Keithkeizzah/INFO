@@ -1,0 +1,58 @@
+{
+  "endpoints": [
+    {
+      "category": "movie",
+      "name": "Sinhalasub Search",
+      "url": "/movie/sinhalasub/search?text=Vikings",
+      "description": "Search for movies on Sinhalasub."
+    },
+    {
+      "category": "movie",
+      "name": "Sinhalasub Movie",
+      "url": "/movie/sinhalasub/movie?url=https://sinhalasub.lk/movies/outbreak-2024-sinhala-subtitles/",
+      "description": "Get movie details from Sinhalasub."
+    },
+    {
+      "category": "movie",
+      "name": "Sinhalasub TV Show",
+      "url": "/movie/sinhalasub/tvshow?url=https://sinhalasub.lk/tvshows/game-of-thrones-2011-sinhala-subtitles/",
+      "description": "Get TV show details from Sinhalasub."
+    },
+    {
+      "category": "movie",
+      "name": "Sinhalasub Episode",
+      "url": "/movie/sinhalasub/episode?url=https://sinhalasub.lk/episodes/game-of-thrones-1x1/",
+      "description": "Get episode details from Sinhalasub."
+    },
+    {
+      "category": "movie",
+      "name": "Pirate Search",
+      "url": "/movie/pirate/search?text=2024",
+      "description": "Search for movies on Pirate."
+    },
+    {
+      "category": "movie",
+      "name": "Pirate Movie",
+      "url": "/movie/pirate/movie?url=https://pirate.lk/movies/sector-36-2024-sinhala-sub/",
+      "description": "Get movie details from Pirate."
+    },
+    {
+      "category": "movie",
+      "name": "Zoom Search",
+      "url": "/movie/zoom/search?text=2024",
+      "description": "Search for movies on Zoom."
+    },
+    {
+      "category": "movie",
+      "name": "Zoom Movie",
+      "url": "/movie/zoom/movie?url=https://zoom.lk/red-one-2024-sinhala-subtitle-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-%e0%b6%8b%e0%b6%b4%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%90%e0%b7%83%e0%b7%92/",
+      "description": "Get movie details from Zoom."
+    },
+    {
+      "category": "movie",
+      "name": "FireMovie Search",
+      "url": "/movie/firemovie?text=2024",
+      "description": "Search for movies on FireMovie."
+    }
+  ]
+}
