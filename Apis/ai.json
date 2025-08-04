@@ -1,0 +1,130 @@
+{
+  "endpoints": [
+    {
+      "category": "ai",
+      "name": "GPT",
+      "url": "/ai/gpt?q=which%20model%20are%20you",
+      "description": "Access the GPT AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Claude Ai",
+      "url": "/ai/claudeai?q=which%20model%20are%20you",
+      "description": "Access claude Ai model"
+    },
+    {
+      "category": "ai",
+      "name": "Mistral Ai",
+      "url": "/ai/mistral?q=which%20model%20are%20you",
+      "description": "Access Mistral Ai model"
+    },
+    {
+      "category": "ai",
+      "name": "gpt4 Nano",
+      "url": "/ai/gpt41Nano?q=which%20model%20are%20you",
+      "description": "Access gpt4 Nano Ai model"
+    },
+    {
+      "category": "ai",
+      "name": "o3 Ai",
+      "url": "/ai/o3?q=which%20model%20are%20you",
+      "description": "Access o3 Ai model"
+    },
+    {
+      "category": "ai",
+      "name": "ChatGPT4",
+      "url": "/ai/chatgpt4?q=which%20model%20are%20you",
+      "description": "Access the GPT AI model."
+    },
+    {
+      "category": "ai",
+      "name": "venice ai",
+      "url": "/ai/venice?q=which%20model%20are%20you",
+      "description": "Access the VENICE AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Code Generator",
+      "url": "/ai/codegen?q=generate%20a%20rest%20api%20code",
+      "description": "Access all language codes using code generator."
+    },
+    {
+      "category": "ai",
+      "name": "Deepseek V3",
+      "url": "/ai/deepseekV3?q=which%20model%20are%20you",
+      "description": "Access the Deepseek AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Lyrics Generator",
+      "url": "/ai/lyricsgen?topic=Heartbreak&genre=blues&mood=sad&structure=verse_chorus_bridge&language=en",
+      "description": "to generate lyrics line contact keith for the supported genres, mood, language and structure"
+    },
+    {
+      "category": "ai",
+      "name": "gpt4",
+      "url": "/ai/gpt4?q=which%20model%20are%20you",
+      "description": "Access the gpt4 AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Qwena ai",
+      "url": "/ai/qwenai?q=which%20model%20are%20you",
+      "description": "Access the qwena AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Gemini-1.5-Flash vision",
+      "url": "/ai/gemini-vision2?image=https://i.imgur.com/t5fTpbk.jpeg&q=What's%20in%20this%20image",
+      "description": "Access the Gemini AI vision model."
+    },
+    {
+      "category": "ai",
+      "name": "Gemini-vision",
+      "url": "/ai/gemini-vision?image=https://i.imgur.com/t5fTpbk.jpeg&q=What's%20in%20this%20image",
+      "description": "Access the Gemini AI vision model."
+    },
+    {
+      "category": "ai",
+      "name": "Meta AI",
+      "url": "/ai/metai?q=which%20model%20are%20you",
+      "description": "Access the Meta AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Deeepseek R1",
+      "url": "/ai/deepseek?q=which%20model%20are%20you",
+      "description": "Access the Deepseek AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Blackbox",
+      "url": "/ai/blackbox?q=which%20model%20are%20you",
+      "description": "Access the Blackbox AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Ilama",
+      "url": "/ai/ilama?q=which%20model%20are%20you",
+      "description": "Access the Ilama AI model."
+    },
+    {
+      "category": "ai",
+      "name": "gemini",
+      "url": "/ai/gemini?q=which%20model%20are%20you",
+      "description": "Access the Gemini AI model."
+    },
+    {
+      "category": "ai",
+      "name": "Grok ai",
+      "url": "/ai/grok?q=which%20model%20are%20you",
+      "description": "Access the grok ai."
+    },
+    {
+      "category": "ai",
+      "name": "Bard AI",
+      "url": "/ai/bard?q=which%20model%20are%20you",
+      "description": "Access the Bard AI model."
+    }
+  ]
+}
