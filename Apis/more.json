@@ -1,0 +1,28 @@
+{
+  "endpoints": [
+    {
+      "category": "more",
+      "name": "Report any issue",
+      "url": "/tools/report?q=Check%20this%20image&contact=254748387614&name=keith",
+      "description": "Report to developer any issue you are experiencing."
+    },
+    {
+      "category": "more",
+      "name": "Generate alpha md pair code",
+      "url": "/code?number==254748387614",
+      "description": "generate pair code for alpha md bot."
+    },
+    {
+      "category": "more",
+      "name": "Generate keith md pair code",
+      "url": "/code?q=254748387614",
+      "description": "Generate pair code for keith md bot"
+    },
+    {
+      "category": "more",
+      "name": "Keith Info",
+      "url": "/keith/info",
+      "description": "Get information about Keith."
+    }
+  ]
+}
