@@ -1,0 +1,52 @@
+{
+  "endpoints": [
+    {
+      "category": "tools",
+      "name": "Tiny url",
+      "url": "/shortener/tinyurl?url=https://example.com",
+      "description": "Shorten long URLs."
+    },
+    {
+      "category": "tools",
+      "name": "Bitly",
+      "url": "/shortener/bitly?url=https://example.com",
+      "description": "Shorten long URLs."
+    },
+    {
+      "category": "tools",
+      "name": "Ulvis shortener",
+      "url": "/shortener/ulvis?url=https://github.com/Keithkeizzah/ALPHA-MD&name=alphabot",
+      "description": "Shorten long URLs."
+    },
+    {
+      "category": "tools",
+      "name": "Translate",
+      "url": "/translate?text=hello&lang=fr",
+      "description": "Translate text into different languages."
+    },
+    {
+      "category": "tools",
+      "name": "Temp Mail",
+      "url": "/tempmail",
+      "description": "Generate temporary email addresses."
+    },
+    {
+      "category": "tools",
+      "name": "Ascii generate",
+      "url": "/tools/ascii?q=https:dragon",
+      "description": "Generate Ascii prompt description"
+    },
+    {
+      "category": "tools",
+      "name": "Get Inbox Temp Mail",
+      "url": "/get_inbox_tempmail?q=",
+      "description": "Fetch inbox for temporary email."
+    },
+    {
+      "category": "tools",
+      "name": "Temp Number",
+      "url": "/tempnumber",
+      "description": "Generate temporary phone numbers."
+    }
+  ]
+}
