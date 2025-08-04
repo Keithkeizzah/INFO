@@ -1,0 +1,16 @@
+{
+  "endpoints": [
+    {
+      "category": "random",
+      "name": "Random Fact",
+      "url": "/random/fact",
+      "description": "Get a random interesting fact."
+    },
+    {
+      "category": "random",
+      "name": "Random Joke",
+      "url": "/random/joke",
+      "description": "Get a random joke."
+    }
+  ]
+}
