@@ -1,0 +1,94 @@
+{
+  "endpoints": [
+    {
+      "category": "images",
+      "name": "Logo",
+      "url": "/logo",
+      "description": "Generate logos."
+    },
+    {
+      "category": "images",
+      "name": "Wallpaper Download",
+      "url": "/download/wallpaper?text=car&page=1",
+      "description": "Download wallpapers."
+    },
+    {
+      "category": "images",
+      "name": "bing",
+      "url": "/ai/bing?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "anime imagine",
+      "url": "/ai/animaginexl?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "anime mix",
+      "url": "/ai/animemix?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "blazing drive",
+      "url": "/ai/blazingdrive?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "braindance",
+      "url": "/ai/braindance?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "cogview",
+      "url": "/ai/cogview?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "cyberxl",
+      "url": "/ai/cyberxl?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "dalle",
+      "url": "/ai/dalle?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "dalle2",
+      "url": "/ai/dalle2?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "dreamshaper",
+      "url": "/ai/dreamshaper?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "flux",
+      "url": "/ai/flux?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "flux pro ultra",
+      "url": "/ai/fluxproultra?q=dog",
+      "description": "download ai image."
+    },
+    {
+      "category": "images",
+      "name": "WallpapersCraft Search",
+      "url": "/search/wallpaperscraft?q=car",
+      "description": "Search for wallpapers on WallpapersCraft."
+    }
+  ]
+}
