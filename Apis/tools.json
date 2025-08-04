@@ -33,7 +33,7 @@
     {
       "category": "tools",
       "name": "Ascii generate",
-      "url": "/tools/ascii?q=https:dragon",
+      "url": "/tools/ascii?q=dragon",
       "description": "Generate Ascii prompt description"
     },
     {
