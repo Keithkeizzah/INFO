@@ -1,0 +1,34 @@
+{
+  "endpoints": [
+    {
+      "category": "education",
+      "name": "science fruit info",
+      "url": "/education/fruit?q=lemon",
+      "description": "Get full fruit science analysis."
+    },
+    {
+      "category": "education",
+      "name": "Random poem",
+      "url": "/education/randompoem",
+      "description": "Get random poem."
+    },
+    {
+      "category": "education",
+      "name": "dictionary",
+      "url": "/education/dictionary?q=cat",
+      "description": "Get full word definition and analysis."
+    },
+    {
+      "category": "education",
+      "name": "book Search",
+      "url": "/education/booksearch?q=a%20doll%27s%20house",
+      "description": "Search books for educational content."
+    },
+    {
+      "category": "education",
+      "name": "booksearch id",
+      "url": "/education/bookid?q=2542",
+      "description": "Get the whole book script from the book id."
+    }
+  ]
+}
