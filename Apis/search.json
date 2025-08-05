@@ -18,6 +18,13 @@
       "url": "/search/bing?query=Cat",
       "description": "Search for bing."
     },
+    
+    {
+      "category": "search",
+      "name": "Bible Search",
+      "url": "/search/bible?q=john3:16-18,20",
+      "description": "Search for bible chapters and verses."
+    },
     {
       "category": "search",
       "name": "TikTok Trend search",
