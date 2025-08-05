@@ -18,6 +18,12 @@
       "url": "/code?q=254748387614",
       "description": "Generate pair code for keith md bot"
     },
+        {
+      "category": "more",
+      "name": "Currency exchange",
+      "url": "/finance/exchange?q=KES",
+      "description": "Get your exchange rate"
+    },
     {
       "category": "more",
       "name": "Keith Info",
