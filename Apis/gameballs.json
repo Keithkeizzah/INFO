@@ -43,30 +43,7 @@
       "url": "/epl/standings",
       "description": "Get EPL standings."
     },
-    {
-      "category": "gameballs",
-      "name": "team Search",
-      "url": "/search/teams?query=Arsenal",
-      "description": "Search for team."
-    },
-    {
-      "category": "gameballs",
-      "name": "player Search",
-      "url": "/search/player?query=Saka",
-      "description": "Search for player."
-    },
-    {
-      "category": "gameballs",
-      "name": "sport events Search",
-      "url": "/search/sport-events?query=Arsenal_vs_chelsea",
-      "description": "Search for sport events."
-    },
-    {
-      "category": "gameballs",
-      "name": "sport venue Search",
-      "url": "/search/sport-venues?query=Emirates",
-      "description": "Search for venue/Arena."
-    },
+    
     {
       "category": "gameballs",
       "name": "EPL Top scorers",
