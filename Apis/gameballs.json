@@ -1,11 +1,36 @@
 {
   "endpoints": [
+        {
+      "category": "gameballs",
+      "name": "player search",
+      "url": "/sport/playersearch?q=bukayo%20Saka",
+      "description": "search for any sport player."
+    },
+    {
+      "category": "gameballs",
+      "name": "Team search",
+      "url": "/sport/teamsearch?q=arsenal",
+      "description": "search for any sport team."
+    },
+    {
+      "category": "gameballs",
+      "name": "venue search",
+      "url": "/sport/venuesearch?q=Emirates",
+      "description": "search for stadium/venue."
+    },
+    {
+      "category": "gameballs",
+      "name": "game events history",
+      "url": "/sport/gameevents?q=Arsenal%20vs%20Chelsea",
+      "description": "search for events like arsenal vs Chelsea"
+    },
     {
       "category": "gameballs",
       "name": "EPL Upcoming Matches",
       "url": "/epl/upcomingmatches",
       "description": "Get upcoming EPL matches."
     },
+    
     {
       "category": "gameballs",
       "name": "EPL Matches",
