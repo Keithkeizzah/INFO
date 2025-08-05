@@ -50,7 +50,7 @@ async function downloadVideo(url, quality) {
 
 // tess
 const main = async () => {
-  const url = 'https://youtube.com/watch?v=60ItHLz5WEA';
+  const url = 'https://youtube.com/watch?v=BzSzwqb-OEE';
 
   try {
     const info = await getVideoInfo(url);
