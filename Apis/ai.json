@@ -138,6 +138,12 @@
       "url": "/ai/txt2video2?q=am%20a%20good%20boy",
       "description": "Generate text to video"
     },
+    {
+      "category": "ai",
+      "name": "dream interpretation/analysis",
+      "url": "/ai/dreamanalyzer?q=I%20dreamt%20about%20frog%20chasing%20me",
+      "description": "to interprate you what you dreamt 😂"
+    },
         {
       "category": "ai",
       "name": "what does this code do",
