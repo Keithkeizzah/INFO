@@ -138,6 +138,12 @@
       "url": "/ai/txt2video2?q=am%20a%20good%20boy",
       "description": "Generate text to video"
     },
+        {
+      "category": "ai",
+      "name": "Search ai",
+      "url": "/ai/searchai?query=Kenya%20News%20today",
+      "description": "Search anything and you will get in detail"
+    },
     {
       "category": "ai",
       "name": "dream interpretation/analysis",
