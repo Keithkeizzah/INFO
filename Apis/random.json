@@ -8,6 +8,12 @@
     },
     {
       "category": "random",
+      "name": "Random bible verse",
+      "url": "/random/bible",
+      "description": "Get a random bible verse"
+    },
+    {
+      "category": "random",
       "name": "Random inspiration quote image",
       "url": "/random/inspirobot",
       "description": "Get a random inspiration quote images."
