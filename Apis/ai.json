@@ -120,6 +120,12 @@
       "url": "/ai/grok?q=which%20model%20are%20you",
       "description": "Access the grok ai."
     },
+        {
+      "category": "ai",
+      "name": "what does this code do",
+      "url": "/whatdoesthiscodedo?code=console.log(%27hi%20keith%27);",
+      "description": "what code does."
+    },
     {
       "category": "ai",
       "name": "Bard AI",
