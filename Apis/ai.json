@@ -120,6 +120,24 @@
       "url": "/ai/grok?q=which%20model%20are%20you",
       "description": "Access the grok ai."
     },
+    {
+      "category": "ai",
+      "name": "text to music",
+      "url": "/ai/txt2music?q=am%20a%20good%20boy",
+      "description": "Generate text to music."
+    },
+    {
+      "category": "ai",
+      "name": "text to video",
+      "url": "/ai/txt2video?q=am%20a%20good%20boy",
+      "description": "Generate text to video."
+    },
+    {
+      "category": "ai",
+      "name": "text to video 2",
+      "url": "/ai/txt2video2?q=am%20a%20good%20boy",
+      "description": "Generate text to video"
+    },
         {
       "category": "ai",
       "name": "what does this code do",
