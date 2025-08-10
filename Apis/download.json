@@ -78,6 +78,18 @@
     },
     {
       "category": "downloaders",
+      "name": "Instagram posts",
+      "url": "/download/instaposts?q=ronaldo",
+      "description": "download Instagram posts."
+    },
+    {
+      "category": "downloaders",
+      "name": "Instagram stories",
+      "url": "/download/instastories?q=ronaldo",
+      "description": "download Instagram stories."
+    },
+    {
+      "category": "downloaders",
       "name": "Spotify download 2",
       "url": "/download/spotifydl?url=https://open.spotify.com/track/6IlORXzatD3Y3p1JN386ho",
       "description": "download spotify audio tracks."
