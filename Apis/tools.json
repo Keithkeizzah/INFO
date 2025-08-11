@@ -1,4 +1,4 @@
-{
+l{
   "endpoints": [
     {
       "category": "tools",
@@ -21,7 +21,7 @@
     {
       "category": "tools",
       "name": "Translate",
-      "url": "/translate?text=hello&lang=fr",
+      "url": "/translate?text=La%20commande%20vcf%20est%20disponible%20en%20plugins%20,%20Il%20inclus%20le%20noms%20des%20contacts%20si%20disponible%20%3Cprefix%3Epg%20allPour%20voir%20la%20liste%20des%20plugins%20disponibles&to=zh",
       "description": "Translate text into different languages."
     },
     {
