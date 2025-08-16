@@ -10,11 +10,6 @@
     "uniquename": "christmas"
   },
   {
-    "key": "denim-emdroidery",
-    "title": "denim",
-    "uniquename": "denime"
-  },
-  {
     "key": "explorer-drawing",
     "title": "Explorer drawing",
     "uniquename": "explorer"
@@ -58,5 +53,30 @@
     "key": "sketch-practicing",
     "title": "Sketch Practicing",
     "uniquename": "sketch"
+  },
+  {
+    "key": "halloween-pumpkins",
+    "title": "Halloween Pumpkins",
+    "uniquename": "halloween"
+  },
+  {
+    "key": "knight-with-sword",
+    "title": "Knight with Sword",
+    "uniquename": "knight"
+  },
+  {
+    "key": "jedi",
+    "title": "Jedi",
+    "uniquename": "jedi"
+  },
+  {
+    "key": "the_three_musketeers",
+    "title": "The Three Musketeers",
+    "uniquename": "musketeers"
+  },
+  {
+    "key": "country-house",
+    "title": "Country House",
+    "uniquename": "countryhouse"
   }
 ]
