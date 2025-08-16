@@ -10,6 +10,11 @@
     "uniquename": "christmas"
   },
   {
+    "key": "harley-davidson",
+    "title": "harley davidson motorcycle",
+    "uniquename": "harley"
+  },
+  {
     "key": "explorer-drawing",
     "title": "Explorer drawing",
     "uniquename": "explorer"
