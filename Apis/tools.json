@@ -14,10 +14,23 @@
     },
     {
       "category": "tools",
-      "name": "Ulvis shortener",
-      "url": "/shortener/ulvis?url=https://github.com/Keithkeizzah/ALPHA-MD&name=alphabot",
-      "description": "Shorten long URLs."
+      "name": "fancy text ",
+      "url": "/fancytext?q=hello&style=3",
+      "description": "fancy text with style numbers."
     },
+   {
+      "category": "tools",
+      "name": "random fancy text style ",
+      "url": "/fancytext/random?q=hello",
+      "description": "random fancy text style"
+    },
+   {
+      "category": "tools",
+      "name": "fancy text styles",
+      "url": "/fancytext/styles?q=hello",
+      "description": "get all fancy text styles."
+    },
+   
     {
       "category": "tools",
       "name": "Translate",
