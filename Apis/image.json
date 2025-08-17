@@ -20,15 +20,15 @@
     },
     {
       "category": "images",
-      "name": "anime imagine",
-      "url": "/ai/animaginexl?q=dog",
-      "description": "download ai image."
+      "name": "list some available photofunia image categories",
+      "url": "/effects/list",
+      "description": "list some available photofunia image categories."
     },
     {
       "category": "images",
-      "name": "anime mix",
-      "url": "/ai/animemix?q=dog",
-      "description": "download ai image."
+      "name": "Apply photofunia effects",
+      "url": "/effects/apply?effect=sketch&url=https://files.catbox.moe/71jlhh.jpg",
+      "description": "download photofunia image effects."
     },
     {
       "category": "images",
