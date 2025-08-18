@@ -12,6 +12,14 @@
       "url": "/shortener/bitly?url=https://example.com",
       "description": "Shorten long URLs."
     },
+
+   {
+      "category": "tools",
+      "name": "screenshot web",
+      "url": "/tool/screenshot?url=https://apis-keith.vercel.app/",
+      "description": "fancy text with style numbers."
+    },
+   
     {
       "category": "tools",
       "name": "fancy text ",
