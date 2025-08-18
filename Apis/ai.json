@@ -128,6 +128,12 @@
     },
     {
       "category": "ai",
+      "name": "text to image",
+      "url": "/ai/txt2img?q=am%20a%20good%20boy",
+      "description": "Generate text to image."
+    },
+    {
+      "category": "ai",
       "name": "text to video",
       "url": "/ai/txt2video?q=am%20a%20good%20boy",
       "description": "Generate text to video."
