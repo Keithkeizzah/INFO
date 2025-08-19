@@ -129,7 +129,7 @@
     {
       "category": "ai",
       "name": "text to image",
-      "url": "/ai/txt2img?q=am%20a%20good%20boy",
+      "url": "/ai/text2img?q=am%20a%20good%20boy",
       "description": "Generate text to image."
     },
     {
