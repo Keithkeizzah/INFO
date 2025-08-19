@@ -45,6 +45,12 @@
     },
     {
       "category": "search",
+      "name": "Lyrics3 Search",
+      "url": "/search/lyrics3?query=faded",
+      "description": "Search for song lyrics."
+    },
+    {
+      "category": "search",
       "name": "Chord Search",
       "url": "/ai/chord?query=faded",
       "description": "Search for song lyrics from chord"
