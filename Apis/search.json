@@ -105,6 +105,18 @@
     },
     {
       "category": "search",
+      "name": "Google Search",
+      "url": "/search/google?q=cat",
+      "description": "Search anything in google."
+    },
+    {
+      "category": "search",
+      "name": "movie Search",
+      "url": "/search/movie?q=Lucifer",
+      "description": "Search for any movie or tv show."
+    },
+    {
+      "category": "search",
       "name": "Mod WhatsApp Search",
       "url": "/search/modwhatsapp?q=gbwhatsapp",
       "description": "Search for modified WhatsApp APKs."
