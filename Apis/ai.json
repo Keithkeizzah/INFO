@@ -1,5 +1,12 @@
 {
   "endpoints": [
+        {
+      "category": "ai",
+      "name": "Keith Ai",
+      "url": "/keithai?q=hi",
+      "description": "Access keith advanced ai build from scratch ."
+    },
+       
     {
       "category": "ai",
       "name": "GPT",
