@@ -10,7 +10,7 @@
     },
     {
       "category": "ai",
-      "name": "Claude Ai",
+      "name": "Gpt Ai",
       "url": "/ai/gpt?q=hi",
       "description": "Access gpt Ai model"
     },
@@ -145,6 +145,12 @@
       "name": "text to video",
       "url": "/ai/txt2video?q=am%20a%20good%20boy",
       "description": "Generate text to video."
+    },
+    {
+      "category": "ai",
+      "name": "speech to text",
+      "url": "/ai/transcribe?q=https://keith-files.vercel.app/rtx5wq.mp3",
+      "description": "transcribe audio to text"
     },
     {
       "category": "ai",
