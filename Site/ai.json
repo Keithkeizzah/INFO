@@ -1,1 +1,100 @@
-
+{
+  "categories": [
+    {
+      "name": "KEITH AI",
+      "url": "/keithai",
+      "type": "LLM",
+      "status": ""
+    },
+    {
+      "name": "BLACKBOX",
+      "url": "/blackbox",
+      "type": "CODING",
+      "status": ""
+    },
+    {
+      "name": "DEEPSEEK",
+      "url": "/deepseek",
+      "type": "LLM",
+      "status": ""
+    },
+    {
+      "name": "CHATGPT",
+      "url": "/gpt",
+      "type": "LLM",
+      "status": "PRO"
+    },
+    {
+      "name": "iLLAMA",
+      "url": "/ilama",
+      "type": "OPEN",
+      "status": ""
+    },
+    {
+      "name": "META AI",
+      "url": "/metai",
+      "type": "SOCIAL",
+      "status": ""
+    },
+    {
+      "name": "FLUX",
+      "url": "/flux",
+      "type": "MULTI",
+      "status": ""
+    },
+    {
+      "name": "VISION",
+      "url": "/vision",
+      "type": "CV",
+      "status": "BETA"
+    },
+    {
+      "name": "GEMINI",
+      "url": "/gemini",
+      "type": "GOOGLE",
+      "status": ""
+    },
+    {
+      "name": "VENICE",
+      "url": "/venice",
+      "type": "SEARCH",
+      "status": ""
+    },
+    {
+      "name": "MISTRAL",
+      "url": "/mistral",
+      "type": "OPEN",
+      "status": ""
+    },
+    {
+      "name": "BARD",
+      "url": "/bard",
+      "type": "LEGACY",
+      "status": ""
+    },
+    {
+      "name": "CLAUDE",
+      "url": "/claude",
+      "type": "ANTHRO",
+      "status": "3.5"
+    },
+    {
+      "name": "PERPLEXITY",
+      "url": "/perplexity",
+      "type": "SEARCH",
+      "status": ""
+    },
+    {
+      "name": "COPILOT",
+      "url": "/copilot",
+      "type": "MSFT",
+      "status": "PRO"
+    },
+    {
+      "name": "CUSTOM",
+      "url": "/custom",
+      "type": "API",
+      "status": ""
+    }
+  ]
+}
