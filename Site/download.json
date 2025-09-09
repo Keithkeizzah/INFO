@@ -1,1 +1,75 @@
 
+[
+  {
+    "name": "Spotify Downloader",
+    "url": "/spotify"
+  },
+  {
+    "name": "Instagram Downloader",
+    "url": "/instagram"
+  },
+  {
+    "name": "Instagram Downloader 2",
+    "url": "/instagram2"
+  },
+  {
+    "name": "APK Downloader",
+    "url": "/apk"
+  },
+  {
+    "name": "TikTok Downloader",
+    "url": "/tiktok"
+  },
+  {
+    "name": "Twitter Downloader",
+    "url": "/twitter"
+  },
+  {
+    "name": "Facebook Downloader",
+    "url": "/facebook"
+  },
+  {
+    "name": "Likee Downloader",
+    "url": "/likee"
+  },
+  {
+    "name": "YouTube to MP3",
+    "url": "/yt"
+  },
+  {
+    "name": "YouTube to MP4",
+    "url": "/ytmp4"
+  },
+  {
+    "name": "YouTube Video",
+    "url": "/video"
+  },
+  {
+    "name": "Audio Player",
+    "url": "/play"
+  },
+  {
+    "name": "SoundCloud Downloader",
+    "url": "/soundcloud"
+  },
+  {
+    "name": "Pinterest Downloader",
+    "url": "/pinterest"
+  },
+  {
+    "name": "CapCut Downloader",
+    "url": "/capcut"
+  },
+  {
+    "name": "Instagram Posts downloader",
+    "url": "/instaposts"
+  },
+  {
+    "name": "Instagram story downloader",
+    "url": "/instastories"
+  },
+  {
+    "name": "MediaFire Downloader",
+    "url": "/mediafire"
+  }
+]
