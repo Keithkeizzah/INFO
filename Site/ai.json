@@ -1,100 +1,95 @@
+
+[
+  {
+    "name": "Keith Ai",
+    "url": "/keithai"
+  },
+  {
+    "name": "Blackbox ai",
+    "url": "/blackbox"
+  },
+  {
+    "name": "deepseek ai",
+    "url": "/deepseek"
+  },
+  {
+    "name": "Gpt ai",
+    "url": "/gpt"
+  },
+  {
+    "name": "ilama ai",
+    "url": "/ilama"
+  },
+  {
+    "name": "mata ai",
+    "url": "/metai"
+  },
+  {
+    "name": "flux ai",
+    "url": "/flux"
+  },
+  {
+    "name": "Gemini ai",
+    "url": "/gemini"
+  },
+  {
+    "name": "vision ai",
+    "url": "/vision"
+  },
+  {
+    "name": "venice ai",
+    "url": "/venice"
+  },
+  {
+    "name": "mistral ai",
+    "url": "/mistral"
+  },
+  {
+    "name": "bard ai",
+    "url": "/bard"
+  },
+  {
+    "name": "claude ai",
+    "url": "/claude"
+  },
+  {
+    "name": "o3 ai",
+    "url": "/o3"
+  },
+  {
+    "name": "grok ai",
+    "url": "/grok"
+  },
+  {
+    "name": "search ai",
+    "url": "/searchai"
+  },
+ {
+    "name": "what does this code do",
+    "url": "/wdtcd"
+  },
+  {
+    "name": "code generator",
+    "url": "/codegen"
+  },
+  {
+    "name": "lyrics generator",
+    "url": "/lyricsgen"
+  },
+  {
+    "name": "dream interpretation",
+    "url": "/dreamanalyzer"
+  },
+ {
+    "name": "speech to text",
+    "url": "/transcribe"
+  },
 {
-  "categories": [
-    {
-      "name": "KEITH AI",
-      "url": "/keithai",
-      "type": "LLM",
-      "status": ""
-    },
-    {
-      "name": "BLACKBOX",
-      "url": "/blackbox",
-      "type": "CODING",
-      "status": ""
-    },
-    {
-      "name": "DEEPSEEK",
-      "url": "/deepseek",
-      "type": "LLM",
-      "status": ""
-    },
-    {
-      "name": "CHATGPT",
-      "url": "/gpt",
-      "type": "LLM",
-      "status": "PRO"
-    },
-    {
-      "name": "iLLAMA",
-      "url": "/ilama",
-      "type": "OPEN",
-      "status": ""
-    },
-    {
-      "name": "META AI",
-      "url": "/metai",
-      "type": "SOCIAL",
-      "status": ""
-    },
-    {
-      "name": "FLUX",
-      "url": "/flux",
-      "type": "MULTI",
-      "status": ""
-    },
-    {
-      "name": "VISION",
-      "url": "/vision",
-      "type": "CV",
-      "status": "BETA"
-    },
-    {
-      "name": "GEMINI",
-      "url": "/gemini",
-      "type": "GOOGLE",
-      "status": ""
-    },
-    {
-      "name": "VENICE",
-      "url": "/venice",
-      "type": "SEARCH",
-      "status": ""
-    },
-    {
-      "name": "MISTRAL",
-      "url": "/mistral",
-      "type": "OPEN",
-      "status": ""
-    },
-    {
-      "name": "BARD",
-      "url": "/bard",
-      "type": "LEGACY",
-      "status": ""
-    },
-    {
-      "name": "CLAUDE",
-      "url": "/claude",
-      "type": "ANTHRO",
-      "status": "3.5"
-    },
-    {
-      "name": "PERPLEXITY",
-      "url": "/perplexity",
-      "type": "SEARCH",
-      "status": ""
-    },
-    {
-      "name": "COPILOT",
-      "url": "/copilot",
-      "type": "MSFT",
-      "status": "PRO"
-    },
-    {
-      "name": "CUSTOM",
-      "url": "/custom",
-      "type": "API",
-      "status": ""
-    }
-  ]
-}
+    "name": "text to video",
+    "url": "/txt2vid"
+  },
+  {
+    "name": "text to image",
+    "url": "/text2image"
+  }
+]
