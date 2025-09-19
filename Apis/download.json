@@ -3,57 +3,58 @@
   "endpoints": [
       {
       "category": "downloaders",
-      "name": "YouTube audio download",
+      "name": "YouTube audio download 1",
       "url": "/download/audio?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as audio files."
     },
       {
       "category": "downloaders",
-      "name": "YouTube video download",
+      "name": "YouTube video download 1",
       "url": "/download/video?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos."
     },
       {
       "category": "downloaders",
-      "name": "YouTube YTMP3",
+      "name": "YouTube audio download 2 (YTMP3) ",
       "url": "/download/ytmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP3 files."
     },
       {
       "category": "downloaders",
-      "name": "YouTube YTMP4",
+      "name": "YouTube video download 2 (YTMP4)",
       "url": "/download/ytmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
-      "name": "YouTube dl MP3",
+      "name": "YouTube audio download 3 (dlmp3)",
       "url": "/download/dlmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
-      "name": "YouTube dl MP4",
+      "name": "YouTube video download 3 (dlmp4)",
       "url": "/download/dlmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP4 files."
+    },
+    
+    {
+      "category": "downloaders",
+      "name": "YouTube audio download 4 (MP3)",
+      "url": "/download/mp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "description": "Download YouTube videos as MP3 files."
+    },
+    {
+      "category": "downloaders",
+      "name": "YouTube video download 4 (MP4)",
+      "url": "/download/mp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "Pinterest Download",
       "url": "/download/pinterest?url=https://pin.it/1zdlg6EPT",
       "description": "Download images or video from Pinterest"
-    },
-    {
-      "category": "downloaders",
-      "name": "YouTube  MP3",
-      "url": "/download/mp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
-      "description": "Download YouTube videos as MP3 files."
-    },
-    {
-      "category": "downloaders",
-      "name": "YouTube  MP4",
-      "url": "/download/mp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
-      "description": "Download YouTube videos as MP3 files."
     },
 
 
@@ -175,7 +176,7 @@
     {
       "category": "downloaders",
       "name": "xvideo Download",
-      "url": "/download/modwadl?url=https://www.xvideos.com/video.hppakie6a79/mia_khalifa_fucks_a_fanboy",
+      "url": "/download/porn?url=https://www.xvideos.com/video.hppakie6a79/mia_khalifa_fucks_a_fanboy",
       "description": "Download xvideos"
     },
     {
