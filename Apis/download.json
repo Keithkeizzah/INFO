@@ -52,42 +52,28 @@
     },
     {
       "category": "downloaders",
-      "name": "Pinterest Download",
+      "name": "Pinterest Download 1",
       "url": "/download/pinterest?url=https://pin.it/1zdlg6EPT",
       "description": "Download images or video from Pinterest"
     },
-
-
-    {
+     {
       "category": "downloaders",
-      "name": "Pastebin Download",
-      "url": "/download/pastebin?url=https://pastebin.com/nadATeEJ",
-      "description": "Download pastebin codes"
+      "name": "Pinterest Download 2",
+      "url": "/download/pindl2?url=https://pin.it/1zdlg6EPT",
+      "description": "Download images or video from Pinterest"
     },
+     {
+      "category": "downloaders",
+      "name": "Pinterest Download 3",
+      "url": "/download/pindl3?url=https://pin.it/1zdlg6EPT",
+      "description": "Download images or video from Pinterest"
+    },                     
     
     {
       "category": "downloaders",
-      "name": "Twitter Download",
-      "url": "/download/twitter?url=https://twitter.com/futurism/status/882987478541533189",
-      "description": "Download videos from Twitter."
-    },
-    {
-      "category": "downloaders",
-      "name": "Spotify",
+      "name": "Spotify download 1",
       "url": "/download/spotify?q=spectre",
       "description": "download spotify audio tracks."
-    },
-    {
-      "category": "downloaders",
-      "name": "Instagram posts",
-      "url": "/download/instaposts?q=ronaldo",
-      "description": "download Instagram posts."
-    },
-    {
-      "category": "downloaders",
-      "name": "Instagram stories",
-      "url": "/download/instastories?q=ronaldo",
-      "description": "download Instagram stories."
     },
     {
       "category": "downloaders",
@@ -97,15 +83,9 @@
     },
     {
       "category": "downloaders",
-      "name": "TikTok Download",
+      "name": "TikTok Download 1",
       "url": "/download/tiktokdl?url=https://vt.tiktok.com/ZSje1Vkup/",
       "description": "Download videos from TikTok."
-    },
-    {
-      "category": "downloaders",
-      "name": "bilbili Download",
-      "url": "/download/twitfbbil?url=https://www.bilibili.com/video/BV1cy4y1k7A2/",
-      "description": "Download videos from bilibili"
     },
     {
       "category": "downloaders",
@@ -115,9 +95,74 @@
     },
     {
       "category": "downloaders",
+      "name": "TikTok Download 3",
+      "url": "/download/tiktokdl3?url=https://vt.tiktok.com/ZSje1Vkup/",
+      "description": "Download videos from TikTok."
+    },
+    j
+    {
+      "category": "downloaders",
+      "name": "Instagram posts download",
+      "url": "/download/instaposts?q=ronaldo",
+      "description": "download Instagram posts."
+    },
+    {
+      "category": "downloaders",
+      "name": "Instagram stories download",
+      "url": "/download/instastories?q=ronaldo",
+      "description": "download Instagram stories."
+    },
+        {
+      "category": "downloaders",
+      "name": "Instagram Download 1",
+      "url": "/download/instagramdl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
+      "description": "Download videos from Instagram."
+    },
+    
+    {
+      "category": "downloaders",
+      "name": "Instagram Download 2",
+      "url": "/download/instadl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
+      "description": "Download videos from Instagram."
+    },
+    {
+      "category": "downloaders",
+      "name": "Instagram Download 3",
+      "url": "/download/instadl3?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
+      "description": "Download videos from Instagram."
+    },
+    {
+      "category": "downloaders",
+      "name": "Facebook Download 1",
+      "url": "/download/fbdown?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
+      "description": "Download videos from Facebook."
+    },
+    
+    {
+      "category": "downloaders",
+      "name": "Facebook Download 2",
+      "url": "/download/fbdl?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
+      "description": "Download videos from Facebook."
+    },
+    
+    {
+      "category": "downloaders",
+      "name": "bilbili Download",
+      "url": "/download/twitfbbil?url=https://www.bilibili.com/video/BV1cy4y1k7A2/",
+      "description": "Download videos from bilibili"
+    },
+    
+    {
+      "category": "downloaders",
       "name": "all  Download ",
       "url": "/download/alldl?url=https://vt.tiktok.com/ZSje1Vkup/",
       "description": "use any social media url to download ."
+    },
+    {
+      "category": "downloaders",
+      "name": "Twitter Download",
+      "url": "/download/twitter?url=https://twitter.com/futurism/status/882987478541533189",
+      "description": "Download videos from Twitter."
     },
     {
       "category": "downloaders",
@@ -131,24 +176,8 @@
       "url": "/download/rednote?url=https://xhslink.com/a/OAzIdalFCoYcb",
       "description": "Download videos from rednote"
     },
-    {
-      "category": "downloaders",
-      "name": "Instagram Download",
-      "url": "/download/instagramdl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
-      "description": "Download videos from Instagram."
-    },
-    {
-      "category": "downloaders",
-      "name": "Instagram Download 2",
-      "url": "/download/instadl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
-      "description": "Download videos from Instagram."
-    },
-    {
-      "category": "downloaders",
-      "name": "Instagram Download 3",
-      "url": "/download/instadl3?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
-      "description": "Download videos from Instagram."
-    },
+
+    
     {
       "category": "downloaders",
       "name": "MediaFire Download",
@@ -185,18 +214,7 @@
       "url": "/dl/hentaivid",
       "description": "Download random hentai videos."
     },
-    {
-      "category": "downloaders",
-      "name": "Facebook Download",
-      "url": "/download/fbdown?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
-      "description": "Download videos from Facebook."
-    },
-    {
-      "category": "downloaders",
-      "name": "Facebook Download 2",
-      "url": "/download/fbdl?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
-      "description": "Download videos from Facebook."
-    },
+    
     {
       "category": "downloaders",
       "name": "SoundCloud Download",
@@ -211,10 +229,17 @@
     },
     {
       "category": "downloaders",
+      "name": "Pastebin Download",
+      "url": "/download/pastebin?url=https://pastebin.com/nadATeEJ",
+      "description": "Download pastebin codes"
+    },
+    {
+      "category": "downloaders",
       "name": "Appletone Download",
       "url": "/download/appletone?text=2024",
       "description": "Download ringtones from Appletone."
     },
+    
     {
       "category": "downloaders",
       "name": "Appletone DL",
