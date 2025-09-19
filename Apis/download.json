@@ -1,29 +1,28 @@
-
 {
   "endpoints": [
-      {
+    {
       "category": "downloaders",
       "name": "YouTube audio download 1",
       "url": "/download/audio?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as audio files."
     },
-      {
+    {
       "category": "downloaders",
       "name": "YouTube video download 1",
       "url": "/download/video?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos."
     },
-      {
+    {
       "category": "downloaders",
-      "name": "YouTube audio download 2 (YTMP3) ",
+      "name": "YouTube audio download 2 (YTMP3)",
       "url": "/download/ytmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP3 files."
     },
-      {
+    {
       "category": "downloaders",
       "name": "YouTube video download 2 (YTMP4)",
-      "url": "/download/ytmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
-      "description": "Download YouTube videos as MP3 files."
+      "url": "/download/ytmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "description": "Download YouTube videos as MP4 files."
     },
     {
       "category": "downloaders",
@@ -37,7 +36,6 @@
       "url": "/download/dlmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
       "description": "Download YouTube videos as MP4 files."
     },
-    
     {
       "category": "downloaders",
       "name": "YouTube audio download 4 (MP3)",
@@ -48,7 +46,7 @@
       "category": "downloaders",
       "name": "YouTube video download 4 (MP4)",
       "url": "/download/mp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
-      "description": "Download YouTube videos as MP3 files."
+      "description": "Download YouTube videos as MP4 files."
     },
     {
       "category": "downloaders",
@@ -56,19 +54,18 @@
       "url": "/download/pinterest?url=https://pin.it/1zdlg6EPT",
       "description": "Download images or video from Pinterest"
     },
-     {
+    {
       "category": "downloaders",
       "name": "Pinterest Download 2",
       "url": "/download/pindl2?url=https://pin.it/1zdlg6EPT",
       "description": "Download images or video from Pinterest"
     },
-     {
+    {
       "category": "downloaders",
       "name": "Pinterest Download 3",
       "url": "/download/pindl3?url=https://pin.it/1zdlg6EPT",
       "description": "Download images or video from Pinterest"
-    },                     
-    
+    },
     {
       "category": "downloaders",
       "name": "Spotify download 1",
@@ -99,7 +96,6 @@
       "url": "/download/tiktokdl3?url=https://vt.tiktok.com/ZSje1Vkup/",
       "description": "Download videos from TikTok."
     },
-    j
     {
       "category": "downloaders",
       "name": "Instagram posts download",
@@ -112,13 +108,12 @@
       "url": "/download/instastories?q=ronaldo",
       "description": "download Instagram stories."
     },
-        {
+    {
       "category": "downloaders",
       "name": "Instagram Download 1",
       "url": "/download/instagramdl?url=https://www.instagram.com/reel/DD6q97IuzxD/?igsh=YzljYTk1ODg3Zg==",
       "description": "Download videos from Instagram."
     },
-    
     {
       "category": "downloaders",
       "name": "Instagram Download 2",
@@ -137,26 +132,23 @@
       "url": "/download/fbdown?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
       "description": "Download videos from Facebook."
     },
-    
     {
       "category": "downloaders",
       "name": "Facebook Download 2",
       "url": "/download/fbdl?url=https://www.facebook.com/share/r/19zyz6X8KJ/",
       "description": "Download videos from Facebook."
     },
-    
     {
       "category": "downloaders",
       "name": "bilbili Download",
       "url": "/download/twitfbbil?url=https://www.bilibili.com/video/BV1cy4y1k7A2/",
       "description": "Download videos from bilibili"
     },
-    
     {
       "category": "downloaders",
-      "name": "all  Download ",
+      "name": "all Download",
       "url": "/download/alldl?url=https://vt.tiktok.com/ZSje1Vkup/",
-      "description": "use any social media url to download ."
+      "description": "use any social media url to download."
     },
     {
       "category": "downloaders",
@@ -176,8 +168,6 @@
       "url": "/download/rednote?url=https://xhslink.com/a/OAzIdalFCoYcb",
       "description": "Download videos from rednote"
     },
-
-    
     {
       "category": "downloaders",
       "name": "MediaFire Download",
@@ -204,19 +194,6 @@
     },
     {
       "category": "downloaders",
-      "name": "xvideo Download",
-      "url": "/download/porn?url=https://www.xvideos.com/video.hppakie6a79/mia_khalifa_fucks_a_fanboy",
-      "description": "Download xvideos"
-    },
-    {
-      "category": "downloaders",
-      "name": "hentai video",
-      "url": "/dl/hentaivid",
-      "description": "Download random hentai videos."
-    },
-    
-    {
-      "category": "downloaders",
       "name": "SoundCloud Download",
       "url": "/download/soundcloud?url=https://m.soundcloud.com/nilanhettiarachchi/lelena",
       "description": "Download audio from SoundCloud."
@@ -233,13 +210,25 @@
       "url": "/download/pastebin?url=https://pastebin.com/nadATeEJ",
       "description": "Download pastebin codes"
     },
+    
+    {
+      "category": "downloaders",
+      "name": "xvideo Download",
+      "url": "/download/porn?url=https://www.xvideos.com/video.hppakie6a79/mia_khalifa_fucks_a_fanboy",
+      "description": "Download xvideos"
+    },
+    {
+      "category": "downloaders",
+      "name": "hentai video",
+      "url": "/dl/hentaivid",
+      "description": "Download random hentai videos."
+    },   
     {
       "category": "downloaders",
       "name": "Appletone Download",
       "url": "/download/appletone?text=2024",
       "description": "Download ringtones from Appletone."
     },
-    
     {
       "category": "downloaders",
       "name": "Appletone DL",
