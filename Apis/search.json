@@ -33,33 +33,45 @@
     },
     {
       "category": "search",
-      "name": "Lyrics Search",
+      "name": "Lyrics Search 1",
       "url": "/search/lyrics?query=faded",
       "description": "Search for song lyrics."
     },
     {
       "category": "search",
-      "name": "Lyrics2 Search",
+      "name": "Lyrics Search 2",
       "url": "/search/lyrics2?query=faded",
       "description": "Search for song lyrics."
     },
     {
       "category": "search",
-      "name": "Lyrics3 Search",
+      "name": "Lyrics Search 3",
       "url": "/search/lyrics3?query=faded",
       "description": "Search for song lyrics."
     },
     {
       "category": "search",
-      "name": "Chord Search",
-      "url": "/ai/chord?query=faded",
-      "description": "Search for song lyrics from chord"
+      "name": "News updates",
+      "url": "/search/news?q=breaking+news+in+kenya+today",
+      "description": "get news update of anything"
+    },
+    {
+      "category": "search",
+      "name": "top news headlines",
+      "url": "/news/headlines",
+      "description": "get top news headlines worldwide"
     },
     {
       "category": "search",
       "name": "TikTok Search",
       "url": "/search/tiktoksearch?query=keizzah4189",
       "description": "provide a username to search in TikTok."
+    },
+    {
+      "category": "search",
+      "name": "TikTok user posts Search",
+      "url": "/search/tiktokuserposts?user=keizzah4189",
+      "description": "Search for users posts in tiktok."
     },
     {
       "category": "search",
@@ -85,12 +97,7 @@
       "url": "/search/tweet-posts?q=keithkeizzah",
       "description": "Search for x tweets posts."
     },
-    {
-      "category": "search",
-      "name": "TikTok user posts Search",
-      "url": "/search/tiktokuserposts?user=keizzah4189",
-      "description": "Search for users posts in tiktok."
-    },
+    
     {
       "category": "search",
       "name": "Spotify Search",
