@@ -176,9 +176,9 @@
     },
     {
       "category": "downloaders",
-      "name": "APKFab Download",
-      "url": "/download/apkfab?url=https://apkfab.com/whatsapp-messenger/com.whatsapp",
-      "description": "Download APK files from APKFab."
+      "name": "APK Download",
+      "url": "/download/apk?url=https://apk4all.com.im/apps/xender-share-music-transfer",
+      "description": "Download apk from the search url of apk/search."
     },
     {
       "category": "downloaders",
