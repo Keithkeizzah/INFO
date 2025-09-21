@@ -107,7 +107,7 @@
     {
       "category": "search",
       "name": "APK Search",
-      "url": "/search/apk?q=xender",
+      "url": "/apk/search?q=xender",
       "description": "Search for APKs"
     },
     {
