@@ -124,6 +124,19 @@
     },
     {
       "category": "search",
+      "name": "yahoo image Search",
+      "url": "/yahoo/images?q=cat",
+      "description": "Search any image from yahoo."
+    },
+    {
+      "category": "search",
+      "name": "yahoo video Search",
+      "url": "/yahoo/videos?q=cat",
+      "description": "Search any video from yahoo."
+    },
+    
+    {
+      "category": "search",
       "name": "movie Search",
       "url": "/search/movie?q=Lucifer",
       "description": "Search for any movie or tv show."
