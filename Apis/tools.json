@@ -8,6 +8,56 @@
     },
     {
       "category": "tools",
+      "name": "dagd shortener",
+      "url": "/shortener/dagd?url=https://example.com&name=exampleman",
+      "description": "get shortened url using dagd plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "vgd shortener",
+      "url": "/shortener/vgd?url=https://example.com&name=myalias",
+      "description": "get shortened url using vgd plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "tinube shortener",
+      "url": "/shortener/tinube?url=https://example.com&name=custom123",
+      "description": "get shortened url using tinube plus name alias"
+    },
+   
+   {
+      "category": "tools",
+      "name": "spoome shortener",
+      "url": "/shortener/spoome?url=https://example.com&name=funnylink",
+      "description": "get shortened url using spoome plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "spooeemoji shortener",
+      "url": "/shortener/spooemoji?url=https://example.com&name=🇰🇪💥",
+      "description": "get shortened url using spooemoji plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "random shortener",
+      "url": "/shortener/random?url=https://example.com&name=myalias",
+      "description": "get shortened url plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "batch shortener",
+      "url": "/shortener/batch?url=https://example.com&name=myalias",
+      "description": "get all shortened url list plus name alias"
+    },
+   {
+      "category": "tools",
+      "name": "shortener status",
+      "url": "/shortener/status",
+      "description": "check all shortener endpoints"
+    },
+       
+    {
+      "category": "tools",
       "name": "Bitly",
       "url": "/shortener/bitly?url=https://example.com",
       "description": "Shorten long URLs."
