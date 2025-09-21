@@ -106,9 +106,9 @@
     },
     {
       "category": "search",
-      "name": "APKFab Search",
-      "url": "/search/apkfab?q=whatsapp",
-      "description": "Search for APKs on APKFab."
+      "name": "APK Search",
+      "url": "/search/apk?q=xender",
+      "description": "Search for APKs"
     },
     {
       "category": "search",
