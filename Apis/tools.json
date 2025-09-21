@@ -61,12 +61,20 @@
       "description": "host check for https."
     },
    
+   
     {
       "category": "tools",
       "name": "host check tcp",
       "url": "/hostcheck/tcp?q=keithkeizzah.site&port=443",
       "description": "host check for tcp"
     },
+   {
+      "category": "tools",
+      "name": "host check ping",
+      "url": "/hostcheck/ping?q=https://keithkeizzah.site",
+      "description": "host check for https."
+    },
+   
    
     {
       "category": "tools",
@@ -85,7 +93,7 @@
     {
       "category": "tools",
       "name": "host check info",
-      "url": "/hostcheck/info?q=8.8.8.8",
+      "url": "/hostcheckinfo?q=8.8.8.8",
       "description": "host check info"
     },
    
