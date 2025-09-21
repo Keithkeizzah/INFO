@@ -131,7 +131,7 @@
     {
       "category": "search",
       "name": "yahoo video Search",
-      "url": "/yahoo/videos?q=cat",
+      "url": "/yahoo/video?q=cat",
       "description": "Search any video from yahoo."
     },
     
