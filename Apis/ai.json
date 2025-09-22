@@ -152,6 +152,15 @@
       "url": "/ai/transcribe?q=https://keith-files.vercel.app/rtx5wq.mp3",
       "description": "transcribe audio to text"
     },
+       {
+      "category": "ai",
+      "name": "text to speech 1",
+      "url": "/ai/tts?q=hi",
+      "description": "converts text to speech"
+    },
+    
+    
+       
     {
       "category": "ai",
       "name": "text to video 2",
@@ -175,6 +184,21 @@
       "name": "what does this code do",
       "url": "/whatdoesthiscodedo?code=console.log(%27hi%20keith%27);",
       "description": "what code does."
+    },
+    
+       
+       {
+      "category": "ai",
+      "name": "ai song endpoint docs",
+      "url": "/aisong/docs",
+      "description": "list aisong docs"
+    },
+    
+       {
+      "category": "ai",
+      "name": "ai song generator",
+      "url": "/ai/song?prompt=A+happy+pop+song+about+summer+love+with+guitar",
+      "description": "ai song generator"
     },
     {
       "category": "ai",
