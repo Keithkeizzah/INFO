@@ -18,6 +18,12 @@
       "url": "/search/bing?query=Cat",
       "description": "Search for bing."
     },
+    {
+      "category": "search",
+      "name": "telegram channel Search",
+      "url": "/search/telegramchannel?q=power%20book",
+      "description": "enter any telegram username to search ."
+    },
     
     {
       "category": "search",
