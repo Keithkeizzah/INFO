@@ -33,8 +33,8 @@
     {
       "category": "images",
       "name": "blazing drive",
-      "url": "/ai/blazingdrive?q=dog",
-      "description": "download ai image."
+      "url": "/sesrch/pinterest?q=dog",
+      "description": "search Pinterest images"
     },
     {
       "category": "images",
