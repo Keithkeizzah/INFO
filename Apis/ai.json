@@ -130,6 +130,18 @@
     },
     {
       "category": "ai",
+      "name": "bible ai",
+      "url": "/ai/bibleai?q=what+is+faith",
+      "description": "Access the bible ai."
+    },
+    {
+      "category": "ai",
+      "name": "Muslim ai",
+      "url": "/ai/muslimai?q=who+is+allah",
+      "description": "Access the grok ai."
+    },
+    {
+      "category": "ai",
       "name": "text to music",
       "url": "/ai/txt2music?q=am%20a%20good%20boy",
       "description": "Generate text to music."
