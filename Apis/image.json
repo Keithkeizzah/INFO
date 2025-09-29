@@ -45,8 +45,8 @@
     {
       "category": "images",
       "name": "cogview",
-      "url": "/ai/cogview?q=dog",
-      "description": "download ai image."
+      "url": "/ai/magicstudio?prompt=dog",
+      "description": "generate ai image from magic studio "
     },
     {
       "category": "images",
