@@ -2,76 +2,84 @@
 
 [
   {
-    "name": "Spotify Downloader",
-    "url": "/spotify",
-    "imageurl": "https://files.catbox.moe/5pbl9y.jpg"
+    "name": "Lyrics search",
+    "url": "/lyrics",
+    "imageurl": ""
   },
   {
-    "name": "Instagram Downloader",
-    "url": "/instagram"
+    "name": "bible search",
+    "url": "/bible",
+    "imageurl": ""
   },
   {
-    "name": "Instagram Downloader 2",
-    "url": "/instagram2"
+    "name": "quran search",
+    "url": "/quran",
+    "imageurl": ""
   },
   {
-    "name": "APK Downloader",
-    "url": "/apk"
+    "name": "Tiktok search",
+    "url": "/tiktok-search",
+    "imageurl": ""
   },
   {
-    "name": "TikTok Downloader",
-    "url": "/tiktok"
+    "name": "twitter search",
+    "url": "/twitter-search"
+    "imageurl": ""
   },
   {
-    "name": "Twitter Downloader",
-    "url": "/twitter"
+    "name": "youtube search",
+    "url": "/youtube-search",
+    "imageurl": ""
   },
   {
-    "name": "Facebook Downloader",
-    "url": "/facebook"
+    "name": "movie search",
+    "url": "/imdb-search",
+    "imageurl": ""
   },
   {
-    "name": "Likee Downloader",
-    "url": "/likee"
+    "name": "image search",
+    "url": "/image-search",
+    "imageurl": ""
   },
   {
-    "name": "YouTube to MP3",
-    "url": "/yt"
+    "name": "wallpaper search",
+    "url": "/wallpaper",
+    "imageurl": ""
   },
   {
-    "name": "YouTube video downloader (MP4 api)",
-    "url": "/mp4"
+    "name": "wallpaper 2",
+    "url": "/wallpaper2",
+    "imageurl": ""
   },
   {
-    "name": "YouTube Video downloader (ytv2 api)",
-    "url": "/ytv2"
+    "name": "tiktok trend search",
+    "url": "/tiktok-trend-search",
+    "imageurl": ""
   },
   {
-    "name": "YouTube audio downloader (ytmp3 api)",
-    "url": "/ytmp3"
+    "name": "tiktok user search",
+    "url": "/tiktok-user-search",
+    "imageurl": ""
   },
   {
-    "name": "SoundCloud Downloader",
-    "url": "/soundcloud"
+    "name": "SoundCloud search",
+    "url": "/soundcloud-search",
+    "imageurl": ""
   },
   {
-    "name": "Pinterest Downloader",
-    "url": "/pinterest"
+    "name": "spotify search",
+    "url": "/spotify-search",
+    "imageurl": ""
   },
   {
-    "name": "CapCut Downloader",
-    "url": "/capcut"
+    "name": "random bible inspiration",
+    "url": "/randombible",
+    "imageurl": ""
   },
   {
-    "name": "Instagram Posts downloader",
-    "url": "/instaposts"
-  },
-  {
-    "name": "Instagram story downloader",
-    "url": "/instastories"
-  },
-  {
-    "name": "MediaFire Downloader",
-    "url": "/mediafire"
+    "name": "dictionary",
+    "url": "/dictionary",
+    "imageurl": ""
   }
+  
 ]
