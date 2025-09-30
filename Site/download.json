@@ -1,93 +1,110 @@
-
 [
   {
     "name": "Spotify Downloader",
     "url": "/spotify",
-    "imageurl": "https://files.catbox.moe/usb4u2.jpg"
+    "imageurl": "https://files.catbox.moe/usb4u2.jpg",
+    "description": "Download songs and playlists from Spotify as high-quality MP3 files."
   },
   {
     "name": "Instagram Downloader",
     "url": "/instagram",
-    "imageurl": "https://files.catbox.moe/sg3x3o.jpg"
+    "imageurl": "https://files.catbox.moe/sg3x3o.jpg",
+    "description": "Save photos, videos, and reels from public Instagram posts by pasting the URL."
   },
   {
     "name": "Instagram Downloader 2",
     "url": "/instagram2",
-    "imageurl": "https://files.catbox.moe/1ssg27.jpg"
+    "imageurl": "https://files.catbox.moe/1ssg27.jpg",
+    "description": "An alternative tool for downloading Instagram content, often with different features or API support."
   },
   {
     "name": "APK Downloader",
     "url": "/apk",
-    "imageurl": "https://files.catbox.moe/tca5i7.jpg"
+    "imageurl": "https://files.catbox.moe/tca5i7.jpg",
+    "description": "Safely download APK files for Android apps directly, allowing for offline installation."
   },
   {
     "name": "TikTok Downloader",
     "url": "/tiktok",
-    "imageurl": "https://files.catbox.moe/umrvmg.jpg"
+    "imageurl": "https://files.catbox.moe/umrvmg.jpg",
+    "description": "Download TikTok videos without the watermark for easy saving and sharing."
   },
   {
     "name": "Twitter Downloader",
     "url": "/twitter",
-    "imageurl": "https://files.catbox.moe/ublyxo.jpg"
+    "imageurl": "https://files.catbox.moe/ublyxo.jpg",
+    "description": "Save videos and GIFs from Twitter/X posts quickly and easily."
   },
   {
     "name": "Facebook Downloader",
     "url": "/facebook",
-    "imageurl": "https://files.catbox.moe/e908ey.jpg"
+    "imageurl": "https://files.catbox.moe/e908ey.jpg",
+    "description": "Download videos from public Facebook posts, reels, and groups."
   },
   {
     "name": "Likee Downloader",
     "url": "/likee",
-    "imageurl": "https://files.catbox.moe/daq1d0.jpg"
+    "imageurl": "https://files.catbox.moe/daq1d0.jpg",
+    "description": "Save videos from the Likee short-form video platform."
   },
   {
     "name": "YouTube to MP3",
     "url": "/yt",
-    "imageurl": "https://files.catbox.moe/ra2lfo.jpg"
+    "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
+    "description": "Convert and download audio from YouTube videos as MP3 files."
   },
   {
     "name": "YouTube video downloader (MP4 api)",
     "url": "/mp4",
-    "imageurl": "https://files.catbox.moe/ra2lfo.jpg"
+    "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
+    "description": "Download YouTube videos in MP4 format using a specific MP4 API, supporting various resolutions."
   },
   {
     "name": "YouTube Video downloader (ytv2 api)",
     "url": "/ytv2",
-    "imageurl": "https://files.catbox.moe/ra2lfo.jpg"
+    "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
+    "description": "An alternative YouTube video downloader using the ytv2 API, potentially offering different quality or format options."
   },
   {
     "name": "YouTube audio downloader (ytmp3 api)",
     "url": "/ytmp3",
-    "imageurl": "https://files.catbox.moe/q9fr9q.jpg"
+    "imageurl": "https://files.catbox.moe/q9fr9q.jpg",
+    "description": "Extract and download audio from YouTube videos using a dedicated ytmp3 API."
   },
   {
     "name": "SoundCloud Downloader",
     "url": "/soundcloud",
-    "imageurl": "https://files.catbox.moe/xx3yvc.jpg"
+    "imageurl": "https://files.catbox.moe/xx3yvc.jpg",
+    "description": "Download tracks, sets, and playlists from SoundCloud."
   },
   {
     "name": "Pinterest Downloader",
     "url": "/pinterest",
-    "imageurl": "https://files.catbox.moe/sasf0l.jpg"
+    "imageurl": "https://files.catbox.moe/sasf0l.jpg",
+    "description": "Save high-quality images and videos from Pinterest pins and boards."
   },
   {
     "name": "CapCut Downloader",
     "url": "/capcut",
-    "imageurl": "https://files.catbox.moe/rpg01x.jpg"
+    "imageurl": "https://files.catbox.moe/rpg01x.jpg",
+    "description": "Download your CapCut video editing projects and templates."
   },
   {
     "name": "Instagram Posts downloader",
     "url": "/instaposts",
-    "imageurl": "https://files.catbox.moe/hepcbu.jpg"
+    "imageurl": "https://files.catbox.moe/hepcbu.jpg",
+    "description": "A specialized tool focused on downloading standard photo and video posts from Instagram."
   },
   {
     "name": "Instagram story downloader",
     "url": "/instastories",
-    "imageurl": "https://files.catbox.moe/xcuy1y.jpg"
+    "imageurl": "https://files.catbox.moe/xcuy1y.jpg",
+    "description": "Download stories from public Instagram accounts before they disappear."
   },
   {
     "name": "MediaFire Downloader",
     "url": "/mediafire",
-    "imageurl": "https://files.catbox.moe/aqqdmm.jpg"
+    "imageurl": "https://files.catbox.moe/aqqdmm.jpg",
+    "description": "Generate direct download links for files hosted on MediaFire, bypassing the wait page."
   }
 ]
