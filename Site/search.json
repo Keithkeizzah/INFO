@@ -3,7 +3,8 @@
 [
   {
     "name": "Spotify Downloader",
-    "url": "/spotify"
+    "url": "/spotify",
+    "imageurl": "https://files.catbox.moe/5pbl9y.jpg"
   },
   {
     "name": "Instagram Downloader",
