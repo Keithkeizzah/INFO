@@ -40,6 +40,14 @@
     },
       
     
+    
+    {
+      "category": "search",
+      "name": "apple Search",
+      "url": "/search/apple?q=faded",
+      "description": "Search apple music."
+    },
+    
     {
       "category": "search",
       "name": "Bible Search",
