@@ -41,8 +41,8 @@
     "url": "/mp4"
   },
   {
-    "name": "YouTube Video",
-    "url": "/video"
+    "name": "YouTube Video downloader (ytv2 api)",
+    "url": "/ytv2"
   },
   {
     "name": "YouTube audio downloader (ytmp3 api)",
