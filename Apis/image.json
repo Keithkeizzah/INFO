@@ -44,7 +44,7 @@
     },
     {
       "category": "images",
-      "name": "cogview",
+      "name": "magic studio images",
       "url": "/ai/magicstudio?prompt=dog",
       "description": "generate ai image from magic studio "
     },
