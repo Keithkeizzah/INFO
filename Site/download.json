@@ -45,8 +45,8 @@
     "url": "/video"
   },
   {
-    "name": "Audio Player",
-    "url": "/play"
+    "name": "YouTube audio downloader (ytmp3 api)",
+    "url": "/ytmp3"
   },
   {
     "name": "SoundCloud Downloader",
