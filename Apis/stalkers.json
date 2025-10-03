@@ -68,6 +68,12 @@
     },
     {
       "category": "stalkers",
+      "name": "Pinterest Stalk",
+      "url": "/stalker/pinterest?q=keithkeizzah",
+      "description": "Stalk Pinterest username."
+    },
+    {
+      "category": "stalkers",
       "name": "IP Stalk",
       "url": "/stalker/ip?q=41.90.216.105",
       "description": "Stalk IP address."
