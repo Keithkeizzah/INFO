@@ -34,6 +34,12 @@
     },
     {
       "category": "ai",
+      "name": "bard ai",
+      "url": "/ai/bard?q=hi",
+      "description": "Access bard Ai model"
+    },
+    {
+      "category": "ai",
       "name": "o3 Ai",
       "url": "/ai/o3?q=hi",
       "description": "Access o3 Ai model"
@@ -214,9 +220,9 @@
     },
     {
       "category": "ai",
-      "name": "Bard AI",
-      "url": "/ai/bard?q=hi",
-      "description": "Access the Bard AI model."
+      "name": "speech writer AI",
+      "url": "/ai/speechwriter?topic=how%20to%20pass%20examination&length=short&type=dedication&tone=serious",
+      "description": "write speech of your topic in a sec. contact Keith for more parameters."
     }
   ]
 }
