@@ -153,6 +153,26 @@
       "url": "/tools/ascii?q=dragon",
       "description": "Generate Ascii prompt description"
     },
+   
+    {
+      "category": "tools",
+      "name": "Ascii generator 2",
+      "url": "/tool2/ascii2?q=dragon",
+      "description": "Generate Ascii prompt description"
+    },
+   
+    {
+      "category": "tools",
+      "name": "JavaScript encryption(preemptive)",
+      "url": "/tools/encrypt?q=console.log",
+      "description": "encrypt JavaScript code using preemptive method "
+    },
+   {
+      "category": "tools",
+      "name": "JavaScript encryption(byte hide )",
+      "url": "/tools/encrypt2?q=console.log",
+      "description": "encrypt JavaScript code using byte hide method "
+    },
     {
       "category": "tools",
       "name": "Get Inbox Temp Mail",
