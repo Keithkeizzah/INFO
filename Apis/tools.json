@@ -157,7 +157,7 @@
     {
       "category": "tools",
       "name": "Ascii generator 2",
-      "url": "/tool2/ascii2?q=dragon",
+      "url": "/tools/ascii2?q=dragon",
       "description": "Generate Ascii prompt description"
     },
    
