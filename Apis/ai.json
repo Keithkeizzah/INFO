@@ -148,6 +148,12 @@
     },
     {
       "category": "ai",
+      "name": "song finder (shazam)",
+      "url": "/ai/shazam?url=https://files.catbox.moe/dirk7v.m4a",
+      "description": "find any song name, artist and their album ."
+    },
+    {
+      "category": "ai",
       "name": "text to music",
       "url": "/ai/txt2music?q=am%20a%20good%20boy",
       "description": "Generate text to music."
