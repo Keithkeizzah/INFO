@@ -68,6 +68,12 @@
     },
     {
       "category": "fun",
+      "name": "quote audio",
+      "url": "/quote/audio",
+      "description": "Get a random quote audio."
+    },
+    {
+      "category": "fun",
       "name": "never have i ever",
       "url": "/fun/never-have-i-ever",
       "description": "Get a random never have i ever"
