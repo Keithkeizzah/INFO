@@ -40,6 +40,12 @@
     },
     {
       "category": "ai",
+      "name": "perplexity ai",
+      "url": "/ai/perplexity?q=hi",
+      "description": "Access perplexity Ai model"
+    },
+    {
+      "category": "ai",
       "name": "o3 Ai",
       "url": "/ai/o3?q=hi",
       "description": "Access o3 Ai model"
