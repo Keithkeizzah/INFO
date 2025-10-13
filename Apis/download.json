@@ -3,74 +3,74 @@
     {
       "category": "downloaders",
       "name": "YouTube audio download 1",
-      "url": "/download/audio?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/audio?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as audio files."
     },
     {
       "category": "downloaders",
       "name": "YouTube video download 1",
-      "url": "/download/video?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/video?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 2 (YTMP3)",
-      "url": "/download/ytmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/ytmp3?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube video download 2 (YTMP4)",
-      "url": "/download/ytmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/ytmp4?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP4 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 3 (dlmp3)",
-      "url": "/download/dlmp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/dlmp3?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube video download 3 (dlmp4)",
-      "url": "/download/dlmp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/dlmp4?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP4 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 4 (MP3)",
-      "url": "/download/mp3?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/mp3?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     
     {
       "category": "downloaders",
       "name": "YouTube video download 4 (MP4)",
-      "url": "/download/mp4?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/mp4?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP4 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 5 (yta)",
-      "url": "/download/yta?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/yta?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 5 (ytv)",
-      "url": "/download/ytv?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/ytv?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 6 (yta2)",
-      "url": "/download/yta2?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/yta2?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
       "category": "downloaders",
       "name": "YouTube audio download 6 (ytv2)",
-      "url": "/download/ytv2?url=https://youtu.be/2WmBa1CviYE?si=D0LWN3LAaE6nGFBo",
+      "url": "/download/ytv2?url=https://youtube.com/watch?v=60ItHLz5WEA",
       "description": "Download YouTube videos as MP3 files."
     },
     {
