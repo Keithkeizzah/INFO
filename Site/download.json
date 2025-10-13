@@ -48,8 +48,8 @@
     "description": "Save videos from the Likee short-form video platform."
   },
   {
-    "name": "YouTube downloader (audio & video api)",
-    "url": "/audio",
+    "name": "YouTube downloader (ytmp3 & ytmp4 api)",
+    "url": "/ytmp3",
     "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
     "description": "download YouTube videos and audios"
   },
@@ -66,8 +66,8 @@
     "description": "An alternative YouTube video downloader using the ytv2 API, potentially offering different quality or format options."
   },
   {
-    "name": "YouTube audio downloader (ytmp3 api)",
-    "url": "/ytmp3",
+    "name": "YouTube audio downloader (audio and video api)",
+    "url": "/audio",
     "imageurl": "https://files.catbox.moe/q9fr9q.jpg",
     "description": "Extract and download audio from YouTube videos using a dedicated ytmp3 API."
   },
