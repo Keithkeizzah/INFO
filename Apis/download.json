@@ -250,6 +250,12 @@
     },
     {
       "category": "downloaders",
+      "name": "NCS Download",
+      "url": "/ncs?q=alan+walker",
+      "description": "get your favorite artist music from ncs.io site."
+    },
+    {
+      "category": "downloaders",
       "name": "hentai video",
       "url": "/dl/hentaivid",
       "description": "Download random hentai videos."
