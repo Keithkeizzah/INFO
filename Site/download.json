@@ -48,8 +48,8 @@
     "description": "Save videos from the Likee short-form video platform."
   },
   {
-    "name": "YouTube downloader (dlmp3 & dlmp4 api)",
-    "url": "/dlmp3",
+    "name": "YouTube downloader (audio & video api)",
+    "url": "/audio",
     "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
     "description": "download YouTube videos and audios"
   },
