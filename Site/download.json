@@ -54,10 +54,10 @@
     "description": "download YouTube videos and audios"
   },
   {
-    "name": "YouTube video downloader (MP4 api)",
+    "name": "YouTube downloader (MP4 & mp3 api)",
     "url": "/mp4",
     "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
-    "description": "Download YouTube videos in MP4 format using a specific MP4 API, supporting various resolutions."
+    "description": "Download YouTube audio and video"
   },
   {
     "name": "YouTube Video downloader (ytv2 api)",
