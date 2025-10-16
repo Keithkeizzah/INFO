@@ -60,16 +60,28 @@
     "description": "Download YouTube audio and video"
   },
   {
-    "name": "YouTube Video downloader (ytv2 api)",
-    "url": "/ytv2",
+    "name": "YouTube Video downloader (video & video api)",
+    "url": "/audio",
     "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
-    "description": "An alternative YouTube video downloader using the ytv2 API, potentially offering different quality or format options."
+    "description": "download YouTube audio and video."
   },
   {
-    "name": "YouTube audio downloader (audio and video api)",
-    "url": "/audio",
+    "name": "YouTube audio downloader (yta and ytv  api)",
+    "url": "/ytv",
     "imageurl": "https://files.catbox.moe/vcy2ra.jpg",
-    "description": "Extract and download audio from YouTube videos using a dedicated  API."
+    "description": "Download YouTube audio and video "
+  },
+  {
+    "name": "YouTube Video downloader (yta2 &ytv2 api)",
+    "url": "/ytv2",
+    "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
+    "description": "download YouTube audio and video ."
+  },
+    {
+    "name": "YouTube Video downloader (dlmp3 & dlmp4 api)",
+    "url": "/dlmp3",
+    "imageurl": "https://files.catbox.moe/ra2lfo.jpg",
+    "description": "download YouTube audio and video ."
   },
   {
     "name": "SoundCloud Downloader",
