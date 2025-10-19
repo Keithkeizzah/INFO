@@ -80,15 +80,15 @@
     },
     {
       "category": "search",
-      "name": "News updates",
-      "url": "/search/news?q=breaking+news+in+kenya+today",
-      "description": "get news update of anything"
+      "name": "APK search",
+      "url": "/search/apk?q=xender",
+      "description": "search for apk links to download "
     },
     {
       "category": "search",
-      "name": "top news headlines",
-      "url": "/news/headlines",
-      "description": "get top news headlines worldwide"
+      "name": "MediaFire search",
+      "url": "/mfiresearch?q=Whatsapp",
+      "description": "sesech fo MediaFire trend links"
     },
     {
       "category": "search",
