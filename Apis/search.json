@@ -139,12 +139,7 @@
       "url": "/search/spotify?q=lelena",
       "description": "Search for music on Spotify."
     },
-    {
-      "category": "search",
-      "name": "APK Search",
-      "url": "/apk/search?q=xender",
-      "description": "Search for APKs"
-    },
+    
     {
       "category": "search",
       "name": "Sticker Search",
