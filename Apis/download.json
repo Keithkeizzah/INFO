@@ -123,6 +123,12 @@
     },
     {
       "category": "downloaders",
+      "name": "TikTok Download 4",
+      "url": "/download/tiktokdl4?url=https://vt.tiktok.com/ZSje1Vkup/",
+      "description": "Download videos from TikTok."
+    },
+    {
+      "category": "downloaders",
       "name": "Instagram posts download",
       "url": "/download/instaposts?q=ronaldo",
       "description": "download Instagram posts."
