@@ -207,7 +207,13 @@
     },
     {
       "category": "downloaders",
-      "name": "APK Download",
+      "name": "APK Download from (aptoide.com ) site",
+      "url": "/search/aptoide?q=xender",
+      "description": "Download apk using a search query."
+    },
+    {
+      "category": "downloaders",
+      "name": "APK Downloader( apk4all.com )",
       "url": "/download/apk?url=https://apk4all.com.im/apps/xender-share-music-transfer",
       "description": "Download apk from the search url of apk/search."
     },
