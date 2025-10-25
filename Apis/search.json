@@ -38,7 +38,13 @@
       "url": "/fetch/wagrouplink?url=https://whatsgrouplink.com/cristiano-ronaldo-fans-whatsapp-group-links/",
       "description": "from the search result extract its walinks."
     },
-      
+     {
+      "category": "search",
+      "name": "brave browser search",
+      "url": "/search/brave?q=Kenya",
+      "description": "Search anything using brave api"
+    },
+     
     
     
     {
