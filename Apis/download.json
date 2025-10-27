@@ -171,16 +171,11 @@
     },
     {
       "category": "downloaders",
-      "name": "bilbili Download",
-      "url": "/download/twitfbbil?url=https://www.bilibili.com/video/BV1cy4y1k7A2/",
-      "description": "Download videos from bilibili"
+      "name": "all in one Download",
+      "url": "/download/alldl?url=https://www.bilibili.com/video/BV1cy4y1k7A2/",
+      "description": "Download videos images from any social link"
     },
-    {
-      "category": "downloaders",
-      "name": "all Download",
-      "url": "/download/alldl?url=https://vt.tiktok.com/ZSje1Vkup/",
-      "description": "use any social media url to download."
-    },
+    
     {
       "category": "downloaders",
       "name": "Twitter Download",
