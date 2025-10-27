@@ -56,9 +56,9 @@
     },
     {
       "category": "images",
-      "name": "dalle",
-      "url": "/ai/dalle?q=dog",
-      "description": "download ai image."
+      "name": "remove background",
+      "url": "/ai/removebg?url=https://qu.ax/aNXtm.jpg",
+      "description": "provide a valid image url to remove its background."
     },
     {
       "category": "images",
