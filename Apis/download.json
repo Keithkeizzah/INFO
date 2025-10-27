@@ -242,13 +242,19 @@
       "url": "/download/tgstories?q=Shakeena6",
       "description": "Download telegram stories"
     },
+    
     {
       "category": "downloaders",
       "name": "Pastebin Download",
       "url": "/download/pastebin?url=https://pastebin.com/nadATeEJ",
       "description": "Download pastebin codes"
     },
-    
+    {
+      "category": "downloaders",
+      "name": "telegram media Download",
+      "url": "/download/telegram?url=https://t.me/keithmd/17022",
+      "description": "Download any telegram media using their channel or group links"
+    },
     {
       "category": "downloaders",
       "name": "xvideo Download  ",
