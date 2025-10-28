@@ -1,4 +1,3 @@
-
 [
   {
     "name": "keith ai",
@@ -18,4 +17,4 @@
     "imageurl": "https://files.catbox.moe/9bvl2k.jpg",
     "description": "analyze any song audio or video to get its artist"
   }
-]
+]  // ← No comma here
