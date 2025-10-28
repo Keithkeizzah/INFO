@@ -8,13 +8,13 @@
   {
     "name": "vision ai",
     "url": "/vision",
-    "imageurl": "https://files.catbox.moe/ncwg6l.jpg",
+    "imageurl": "https://files.catbox.moe/lbebf3.png",
     "description": "upload an image to analyze according to your query."
   },
   {
     "name": "shazam",
     "url": "/shazam",
-    "imageurl": "https://files.catbox.moe/9bvl2k.jpg",
+    "imageurl": "https://files.catbox.moe/1oy9zw.jpeg",
     "description": "analyze any song audio or video to get its artist"
   }
 ]  
