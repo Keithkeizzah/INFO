@@ -12,9 +12,15 @@
     "description": "get truth and dsre questions puzzle."
   },
   {
+    "name": "random jokes",
+    "url": "/joke",
+    "imageurl": "https://files.catbox.moe/aj0yet.jpeg",
+    "description": "get random jokes."
+  },
+  {
     "name": "never have i ever",
     "url": "/nhie",
-    "imageurl": "https://files.catbox.moe/f190zf.jpeg",
+    "imageurl": "https://files.catbox.moe/fkcvae.jpeg",
     "description": "get random never have i ever questions "
   }
 ]  
