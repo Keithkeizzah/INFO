@@ -1,1 +1,19 @@
 
+  {
+    "name": "keith ai",
+    "url": "/keithai",
+    "imageurl": "https://files.catbox.moe/prtd5q.jpg",
+    "description": "chat with keith ai , generate ai images and videos for free "
+  },
+  {
+    "name": "vision ai",
+    "url": "/vision",
+    "imageurl": "https://files.catbox.moe/ncwg6l.jpg",
+    "description": "upload an image to analyze according to your query."
+  },
+  {
+    "name": "shazam",
+    "url": "/shazam",
+    "imageurl": "https://files.catbox.moe/9bvl2k.jpg",
+    "description": "analyze any song audio or video to get its artist"
+  },
