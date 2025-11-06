@@ -214,9 +214,15 @@
     },
     {
       "category": "gameballs",
-      "name": "UCL Top Scorers",
+      "name": "UCL top scorers",
       "url": "/ucl/scorers",
-      "description": "Get UCL top scorers."
+      "description": "Get UCL top scorers"
+    },
+    {
+      "category": "gameballs",
+      "name": "Kenya sport news",
+      "url": "/football/news",
+      "description": "Get Kenya football news."
     }
   ]
 }
