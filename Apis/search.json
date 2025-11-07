@@ -152,6 +152,13 @@
       "url": "/search/sticker?q=cat",
       "description": "Search for stickers."
     },
+    
+    {
+      "category": "search",
+      "name": "telegram Sticker Search",
+      "url": "/search/tgs?q=cat",
+      "description": "Search for telegram stickers."
+    },
     {
       "category": "search",
       "name": "Google Search",
