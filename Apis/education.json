@@ -33,6 +33,12 @@
     
     {
       "category": "education",
+      "name": "chemistry ai",
+      "url": "/education/chemistry?q=what%20si%20the%20mass%20number%20of%20sodium",
+      "description": "solve any chemistry quiz"
+    },
+    {
+      "category": "education",
       "name": "book Search",
       "url": "/education/booksearch?q=a%20doll%27s%20house",
       "description": "Search books for educational content."
