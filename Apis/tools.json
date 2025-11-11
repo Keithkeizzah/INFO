@@ -102,6 +102,14 @@
       "url": "/tempmail",
       "description": "Generate temporary email addresses."
     },
+          
+    {
+      "category": "tools",
+      "name": "Whatsapp profile picture download",
+      "url": "/whatsapp/profile?query=254748387615",
+      "description": "Download any Whatsapp profile picture "
+    },
+   
 
    
     {
