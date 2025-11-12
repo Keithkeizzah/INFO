@@ -28,6 +28,12 @@
     },
     {
       "category": "ai",
+      "name": "worm gpt 👿",
+      "url": "/ai/wormgpt?q=hi",
+      "description": "Access illegal ai model"
+    },
+    {
+      "category": "ai",
       "name": "gpt4 Nano",
       "url": "/ai/gpt41Nano?q=hi",
       "description": "Access gpt4 Nano Ai model"
