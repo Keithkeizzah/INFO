@@ -12,6 +12,12 @@
     "description": "upload an image to analyze according to your query."
   },
   {
+    "name": "remove background",
+    "url": "/removebg",
+    "imageurl": "https://files.catbox.moe/lrp0h8.jpeg",
+    "description": "remove ."
+  },
+  {
     "name": "shazam",
     "url": "/shazam",
     "imageurl": "https://files.catbox.moe/1oy9zw.jpeg",
