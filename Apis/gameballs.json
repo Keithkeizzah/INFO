@@ -26,6 +26,13 @@
     },
     {
       "category": "gameballs",
+      "name": "LiveScore updates",
+      "url": "/livescore",
+      "description": "Get current football LiveScores."
+    },
+    
+    {
+      "category": "gameballs",
       "name": "EPL Upcoming Matches",
       "url": "/epl/upcomingmatches",
       "description": "Get upcoming EPL matches."
