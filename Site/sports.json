@@ -1,9 +1,9 @@
 [
   {
-    "name": "cricket",
-    "url": "/cricket",
-    "imageurl": "https://files.catbox.moe/2dm60t.jpg",
-    "description": "Your central hub for all things cricket, featuring live scores, news, and comprehensive match data."
+    "name": "sport news",
+    "url": "/sportnews",
+    "imageurl": "https://qu.ax/gfxSX.jpg",
+    "description": "explore all sport news all over the world"
   },
   {
     "name": "venu search",
