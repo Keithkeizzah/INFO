@@ -227,9 +227,9 @@
     },
     {
       "category": "gameballs",
-      "name": "Kenya sport news",
+      "name": "football news",
       "url": "/football/news",
-      "description": "Get Kenya football news."
+      "description": "Get football news."
     }
   ]
 }
