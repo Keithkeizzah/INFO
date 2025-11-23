@@ -30,7 +30,12 @@
       "url": "/livescore",
       "description": "Get current football LiveScores."
     },
-    
+    {
+      "category": "gameballs",
+      "name": "LiveScore updates with highlights",
+      "url": "/livescore2",
+      "description": "Get current football LiveScores with highlights."
+    },
     {
       "category": "gameballs",
       "name": "EPL Upcoming Matches",
@@ -189,7 +194,7 @@
       "url": "/seriea/matches",
       "description": "Get Serie A match details."
     },
-    {
+    {k
       "category": "gameballs",
       "name": "Serie A Standings",
       "url": "/seriea/standings",
