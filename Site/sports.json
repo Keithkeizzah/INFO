@@ -48,6 +48,12 @@
     "description": "Check the schedule of future cricket matches, series, and tournaments across all formats."
   },
   {
+    "name": "LiveScore matches with highlights",
+    "url": "/livescore",
+    "imageurl": "https://qu.ax/qGBPc.jpg",
+    "description": "get live matches and update highlights "
+  },
+  {
     "name": "live matches",
     "url": "/matches",
     "imageurl": "https://files.catbox.moe/yaotaw.jpg",
