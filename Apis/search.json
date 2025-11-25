@@ -116,6 +116,12 @@
     },
     {
       "category": "search",
+      "name": "TikTok story",
+      "url": "/search/tiktokstory?q=arsenalfanpage90",
+      "description": "get tiktok story post"
+    },
+    {
+      "category": "search",
       "name": "TikTok user posts Search",
       "url": "/search/tiktokuserposts?user=keizzah4189",
       "description": "Search for users posts in tiktok."
