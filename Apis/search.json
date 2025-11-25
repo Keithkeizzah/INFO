@@ -110,6 +110,12 @@
     },
     {
       "category": "search",
+      "name": "TikTok Trend Search",
+      "url": "/search/tiktoktrend?q=KE",
+      "description": "Search for region tiktok trend posts."
+    },
+    {
+      "category": "search",
       "name": "TikTok user posts Search",
       "url": "/search/tiktokuserposts?user=keizzah4189",
       "description": "Search for users posts in tiktok."
