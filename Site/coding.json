@@ -30,10 +30,16 @@
     "description": "Convert color values between different formats like HEX, RGB, HSL, and CMYK."
   },
   {
-    "name": "JavaScript encryption",
-    "url": "/encrypt",
-    "imageurl": "https://files.catbox.moe/8yr6d3.jpg",
-    "description": "Encrypt and secure text or data using various JavaScript-based encryption algorithms."
+    "name": "preemptive JavaScript encryptor tool ",
+    "url": "/preemptive",
+    "imageurl": "https://qu.ax/nRjFR.jpg",
+    "description": "encrypt hard using preemptive obfuscator "
+  },
+    {
+    "name": "bytehide JavaScript encryptor tool ",
+    "url": "/bytehide",
+    "imageurl": "https://qu.ax/CaHVQ.jpg",
+    "description": "encrypt hard using bytehide obfuscator "
   },
   {
     "name": "run JavaScript",
