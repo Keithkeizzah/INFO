@@ -2,9 +2,9 @@
   "endpoints": [
     {
       "category": "movie",
-      "name": "Sinhalasub Search",
-      "url": "/movie/sinhalasub/search?text=Vikings",
-      "description": "Search for movies on Sinhalasub."
+      "name": "movie/series Search",
+      "url": "/movie/search?q=undisputed",
+      "description": "use search query to search movie or series "
     },
     {
       "category": "movie",
