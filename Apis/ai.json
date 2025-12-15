@@ -178,9 +178,9 @@
     },
     {
       "category": "ai",
-      "name": "text to video",
-      "url": "/ai/txt2video?q=am%20a%20good%20boy",
-      "description": "Generate text to video."
+      "name": "vocal remover",
+      "url": "/ai/vocalremover?url=https://files.catbox.moe/xcy8kh.mp3",
+      "description": "remove vocals from audio ."
     },
     {
       "category": "ai",
