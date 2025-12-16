@@ -26,18 +26,7 @@
     },
    
    {
-      "category": "tools",
-      "name": "spoome shortener",
-      "url": "/shortener/spoome?url=https://example.com&name=funnylink",
-      "description": "get shortened url using spoome plus name alias"
-    },
-   {
-      "category": "tools",
-      "name": "spooeemoji shortener",
-      "url": "/shortener/spooemoji?url=https://example.com&emojis=🇰🇪📛",
-      "description": "get shortened url using spooemoji plus name alias"
-    },
-   {
+
       "category": "tools",
       "name": "random shortener",
       "url": "/shortener/random?url=https://example.com&name=myalias",
@@ -181,11 +170,17 @@
       "url": "/tools/encrypt2?q=console.log",
       "description": "encrypt JavaScript code using byte hide method "
     },
-    {
+   {
       "category": "tools",
       "name": "Get Inbox Temp Mail",
       "url": "/get_inbox_tempmail?q=",
       "description": "Fetch inbox for temporary email."
+    },
+    {
+      "category": "tools",
+      "name": "Whatsapp link creator",
+      "url": "/tools/walink?q=hi&number=254748387615",
+      "description": "create a Whatsapp link."
     },
     {
       "category": "tools",
