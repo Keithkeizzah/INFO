@@ -230,6 +230,12 @@
       "url": "/ucl/scorers",
       "description": "Get UCL top scorers."
     },
+     {
+      "category": "gameballs",
+      "name": "Sure bet tips odds",
+      "url": "/bet",
+      "description": "sure bet tips free odds"
+    },
     {
       "category": "gameballs",
       "name": "football news",
