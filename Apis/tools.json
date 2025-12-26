@@ -34,15 +34,15 @@
     },
    {
       "category": "tools",
-      "name": "batch shortener",
-      "url": "/shortener/batch?url=https://example.com&name=myalias",
-      "description": "get all shortened url list plus name alias"
+      "name": "GitHub followers",
+      "url": "/github/followers?q=Keithkeizzah",
+      "description": "get all your GitHub followers"
     },
    {
       "category": "tools",
-      "name": "shortener status",
-      "url": "/shortener/status",
-      "description": "check all shortener endpoints"
+      "name": "GitHub following",
+      "url": "/github/following?q=Keithkeizzah",
+      "description": "check all GitHub following"
     },
        
     {
