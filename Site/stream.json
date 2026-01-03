@@ -1,26 +1,26 @@
 [
   {
-    "name": "would you rahter",
-    "url": "/wouldyourather",
-    "imageurl": "https://files.catbox.moe/jnqcos.jpeg",
-    "description": "get a random would you rather question for your partner "
+    "name": "Dramabox movies",
+    "url": "/dramabox",
+    "imageurl": "https://files.catbox.moe/4bjv3w.jpg",
+    "description": "get your favorite drama episodes"
   },
   {
-    "name": "truth and dare",
-    "url": "/truthdare",
-    "imageurl": "https://files.catbox.moe/f190zf.jpeg",
-    "description": "get truth and dsre questions puzzle."
+    "name": "Ramogi Tv",
+    "url": "/ramogitv",
+    "imageurl": "https://files.catbox.moe/9c884i.jpg",
+    "description": "stream live ramogi tv."
   },
   {
-    "name": "random jokes",
-    "url": "/joke",
-    "imageurl": "https://files.catbox.moe/aj0yet.jpeg",
-    "description": "get random jokes."
+    "name": "kenya tv",
+    "url": "/kenyatv",
+    "imageurl": "https://files.catbox.moe/s7n6l7.jpg",
+    "description": "get all kenya stream channels."
   },
   {
-    "name": "never have i ever",
-    "url": "/nhie",
-    "imageurl": "https://files.catbox.moe/fkcvae.jpeg",
-    "description": "get random never have i ever questions "
+    "name": "Radio hiphop",
+    "url": "/hiphop",
+    "imageurl": "https://files.catbox.moe/pe7bvm.jpg",
+    "description": "get 24/7 hip hop hits of all time "
   }
 ]  
