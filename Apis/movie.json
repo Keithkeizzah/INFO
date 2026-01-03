@@ -2,57 +2,28 @@
   "endpoints": [
     {
       "category": "movie",
-      "name": "movie/series Search",
-      "url": "/movie/search?q=undisputed",
-      "description": "use search query to search movie or series "
+      "name": "dramabox movie trending",
+      "url": "/dramabox/home",
+      "description": "get latest and trending drama movies"
     },
     {
       "category": "movie",
-      "name": "movie download",
-      "url": "/movie/download?url=https://moviesmod.kids/download-undisputed-2002-hindi-english-480p-720p-1080p/",
-      "description": "download your favorite movie"
+      "name": "dramabox movie search",
+      "url": "/dramabox/search?q=love",
+      "description": "search using a search term"
     },
     {
       "category": "movie",
-      "name": "Sinhalasub TV Show",
-      "url": "/movie/sinhalasub/tvshow?url=https://sinhalasub.lk/tvshows/game-of-thrones-2011-sinhala-subtitles/",
-      "description": "Get TV show details from Sinhalasub."
+      "name": "dramabox details ",
+      "url": "/dramabox/detail?bookId=42000000606",
+      "description": "Get dramabox details from bookid."
     },
     {
       "category": "movie",
-      "name": "Sinhalasub Episode",
-      "url": "/movie/sinhalasub/episode?url=https://sinhalasub.lk/episodes/game-of-thrones-1x1/",
-      "description": "Get episode details from Sinhalasub."
-    },
-    {
-      "category": "movie",
-      "name": "Pirate Search",
-      "url": "/movie/pirate/search?text=2024",
-      "description": "Search for movies on Pirate."
-    },
-    {
-      "category": "movie",
-      "name": "Pirate Movie",
-      "url": "/movie/pirate/movie?url=https://pirate.lk/movies/sector-36-2024-sinhala-sub/",
-      "description": "Get movie details from Pirate."
-    },
-    {
-      "category": "movie",
-      "name": "Zoom Search",
-      "url": "/movie/zoom/search?text=2024",
-      "description": "Search for movies on Zoom."
-    },
-    {
-      "category": "movie",
-      "name": "Zoom Movie",
-      "url": "/movie/zoom/movie?url=https://zoom.lk/red-one-2024-sinhala-subtitle-%e0%b7%83%e0%b7%92%e0%b6%82%e0%b7%84%e0%b6%bd-%e0%b6%8b%e0%b6%b4%e0%b7%83%e0%b7%92%e0%b6%bb%e0%b7%90%e0%b7%83%e0%b7%92/",
-      "description": "Get movie details from Zoom."
-    },
-    {
-      "category": "movie",
-      "name": "FireMovie Search",
-      "url": "/movie/firemovie?text=2024",
-      "description": "Search for movies on FireMovie."
+      "name": "download dramabox movie",
+      "url": "/dramabox/stream?bookId=41000105764&episode=1",
+      "description": "download dramabox movie episodes"
     }
+  
   ]
 }
