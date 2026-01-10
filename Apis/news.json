@@ -12,6 +12,12 @@
       "url": "/news/ntv",
       "description": "get latest ntv news"
     },
+    {
+      "category": "news",
+      "name": "BBC news",
+      "url": "/news/bbc",
+      "description": "get latest BBC news"
+    },
     
     {
       "category": "news",
