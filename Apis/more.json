@@ -14,9 +14,9 @@
     },
     {
       "category": "more",
-      "name": "Generate keith md pair code",
-      "url": "/keithpair?q=254786989022",
-      "description": "Generate pair code for keith md bot"
+      "name": "Generate keith md qr code",
+      "url": "/keith/qr",
+      "description": "Generate qr code for keith md bot"
     },
         {
       "category": "more",
