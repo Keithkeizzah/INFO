@@ -37,6 +37,12 @@
       "url": "/education/chemistry?q=what%20si%20the%20mass%20number%20of%20sodium",
       "description": "solve any chemistry quiz"
     },
+       {
+      "category": "education",
+      "name": "KCSE results 2025 check",
+      "url": "/tools/knec?index=19300010285&name=Sora",
+      "description": "Get your kcse grade here."
+    },
     {
       "category": "education",
       "name": "book Search",
