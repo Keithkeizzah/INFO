@@ -14,6 +14,12 @@
     },
     {
       "category": "news",
+      "name": "Kbc channel 1 news",
+      "url": "/news/kbc",
+      "description": "get latest kbc news"
+    },
+    {
+      "category": "news",
       "name": "BBC news",
       "url": "/news/bbc",
       "description": "get latest BBC news"
