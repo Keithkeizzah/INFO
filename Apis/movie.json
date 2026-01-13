@@ -23,7 +23,13 @@
       "name": "download dramabox movie",
       "url": "/dramabox/stream?bookId=41000105764&episode=1",
       "description": "download dramabox movie episodes"
-    }
+    },
+      {
+      "category": "movie",
+      "name": "Movie trailer",
+      "url": "/movie/trailer?q=https://moviebox.ph/detail/as-beautiful-as-you-OHdIesIQzr5",
+      "description": "get your favorite movie trailer .Get url from movieboxsearch api "
+      }
   
   ]
 }
