@@ -24,6 +24,12 @@
       "url": "/dramabox/stream?bookId=41000105764&episode=1",
       "description": "download dramabox movie episodes"
     },
+    {
+      "category": "movie",
+      "name": "movie search",
+      "url": "/moviebox/search?q=as%20good%20as%20dead",
+      "description": "search your favorite movie from this moviebox search api endpoint"
+    },
       {
       "category": "movie",
       "name": "Movie trailer",
